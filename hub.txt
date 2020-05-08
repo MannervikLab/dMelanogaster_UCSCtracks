@@ -1,0 +1,19 @@
+hub flyEmbrygonesis
+shortLabel Drosophila melanogaster embyogenesis development.
+longLabel Gathering data from PROseq, ATACseq, ChIPseq data during fly embryogenesis.
+useOneFile on
+email johan.reimegard@scilifelab.se
+
+genome dm6
+
+track vcfExample
+shortLabel VCF example
+longLabel VCF: 1000 Genomes phase 1 interim SNVs
+visibility pack
+type vcfTabix
+maxWindowToDraw 200000
+bigDataUrl http://genome.ucsc.edu/goldenPath/help/examples/vcfExample.vcf.gz
+
+
+
+
