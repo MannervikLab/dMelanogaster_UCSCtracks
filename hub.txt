@@ -12,7 +12,7 @@ longLabel gtf convertions from ensembl
 visibility pack
 type bigBed
 maxWindowToDraw 200000
-bigDataUrl https://github.com/b97jre/dMelanogaster_UCSCtracks/blob/master/dm6.gene.bigBed?raw=true
+bigDataUrl https://raw.githubusercontent.com/b97jre/dMelanogaster_UCSCtracks/master/dm6.gene.bigBed
 
 
 
