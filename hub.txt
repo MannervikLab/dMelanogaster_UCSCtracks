@@ -6,14 +6,42 @@ email johan.reimegard@scilifelab.se
 
 genome dm6
 
-track geneLocations
-shortLabel gene location
-longLabel gtf convertions from ensembl
+track H3K4me1_Toll10b
+shortLabel H3K4me1 Toll10b mutant
+longLabel H3K4me1 ChIPseq peaks in Toll10b mutants using genrich on data from EGAXXXXX
 visibility pack
 type bigBed
 maxWindowToDraw 200000
-bigDataUrl https://raw.githubusercontent.com/b97jre/dMelanogaster_UCSCtracks/master/dm6.gene.bigBed
+bigDataUrl https://raw.githubusercontent.com/b97jre/dMelanogaster_UCSCtracks/master/bigBed/H3K4me1_Toll10b.genrich.narrowPeak.BigBed.bb
 
 
-
-
+H3K4me1_gd7.genrich.narrowPeak.BigBed.bb
+H3_Toll910.genrich.narrowPeak.BigBed.bb
+K27ac_Toll10b.genrich.narrowPeak.BigBed.bb
+K27ac_Toll910.genrich.narrowPeak.BigBed.bb
+K27ac_gd7.genrich.narrowPeak.BigBed.bb
+K27me3_Toll10b.genrich.narrowPeak.BigBed.bb
+K27me3_Toll910.genrich.narrowPeak.BigBed.bb
+K27me3_gd7.genrich.narrowPeak.BigBed.bb
+Naive_Nc10.genrich.narrowPeak.BigBed.bb
+Naive_Nc11.genrich.narrowPeak.BigBed.bb
+Naive_Nc9.genrich.narrowPeak.BigBed.bb
+Toll10B_3h.genrich.narrowPeak.BigBed.bb
+Toll10B_4h.genrich.narrowPeak.BigBed.bb
+Toll10B_5h.genrich.narrowPeak.BigBed.bb
+Toll9_10_3h.genrich.narrowPeak.BigBed.bb
+Toll9_10_4h.genrich.narrowPeak.BigBed.bb
+Toll9_10_5h.genrich.narrowPeak.BigBed.bb
+Toll9_10_Fixed.genrich.narrowPeak.BigBed.bb
+WT_12.genrich.narrowPeak.BigBed.bb
+WT_15.genrich.narrowPeak.BigBed.bb
+WT_18.genrich.narrowPeak.BigBed.bb
+WT_3.genrich.narrowPeak.BigBed.bb
+WT_6.genrich.narrowPeak.BigBed.bb
+WT_9.genrich.narrowPeak.BigBed.bb
+bigbedFiles.txt
+gd7_3h.genrich.narrowPeak.BigBed.bb
+gd7_4h.genrich.narrowPeak.BigBed.bb
+gd7_5h.genrich.narrowPeak.BigBed.bb
+zld_Toll10b.genrich.narrowPeak.BigBed.bb
+zld_gd7.genrich.narrowPeak.BigBed.bb
