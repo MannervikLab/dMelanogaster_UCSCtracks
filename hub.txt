@@ -15,7 +15,16 @@ maxWindowToDraw 200000
 bigDataUrl https://raw.githubusercontent.com/b97jre/dMelanogaster_UCSCtracks/master/bigBed/H3K4me1_Toll10b.genrich.narrowPeak.BigBed.bb
 
 
-H3K4me1_gd7.genrich.narrowPeak.BigBed.bb
+track H3K4me1_Gd7
+shortLabel H3K4me1 Gd7 mutant
+longLabel H3K4me1 ChIPseq peaks in Gd7 mutants using genrich on data from EGAXXXXX
+visibility pack
+type bigBed
+maxWindowToDraw 200000
+bigDataUrl https://raw.githubusercontent.com/b97jre/dMelanogaster_UCSCtracks/master/bigBed/H3K4me1_gd7.genrich.narrowPeak.BigBed.bb
+
+
+
 H3_Toll910.genrich.narrowPeak.BigBed.bb
 K27ac_Toll10b.genrich.narrowPeak.BigBed.bb
 K27ac_Toll910.genrich.narrowPeak.BigBed.bb
