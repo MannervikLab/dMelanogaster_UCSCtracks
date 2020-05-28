@@ -2,7 +2,7 @@ hub flyEmbrygonesis
 shortLabel Drosophila melanogaster embyogenesis development.
 longLabel Gathering data from PROseq, ATACseq, ChIPseq data during fly embryogenesis.
 useOneFile on
-email johan.reimegard@scilifelab.se
+email mannerviklab@gmail.com
 
 genome dm6
 
