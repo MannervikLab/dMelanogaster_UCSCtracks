@@ -24,14 +24,63 @@ maxWindowToDraw 200000
 bigDataUrl https://raw.githubusercontent.com/b97jre/dMelanogaster_UCSCtracks/master/bigBed/H3K4me1_gd7.genrich.narrowPeak.BigBed.bb
 
 
+track H3_Toll910
+shortLabel H3 Toll910 mutant
+longLabel H3 ChIPseq peaks in Toll910 mutants using genrich on data from EGAXXXXX
+visibility pack
+type bigBed
+maxWindowToDraw 200000
+bigDataUrl https://raw.githubusercontent.com/b97jre/dMelanogaster_UCSCtracks/master/bigBed/H3_Toll910.genrich.narrowPeak.BigBed.bb
 
-H3_Toll910.genrich.narrowPeak.BigBed.bb
-K27ac_Toll10b.genrich.narrowPeak.BigBed.bb
-K27ac_Toll910.genrich.narrowPeak.BigBed.bb
-K27ac_gd7.genrich.narrowPeak.BigBed.bb
-K27me3_Toll10b.genrich.narrowPeak.BigBed.bb
-K27me3_Toll910.genrich.narrowPeak.BigBed.bb
-K27me3_gd7.genrich.narrowPeak.BigBed.bb
+track K27ac_Toll10b
+shortLabel H3K27ac Toll10b mutant
+longLabel H3K27ac ChIPseq peaks in Toll10b mutants using genrich on data from EGAXXXXX
+visibility pack
+type bigBed
+maxWindowToDraw 200000
+bigDataUrl https://raw.githubusercontent.com/b97jre/dMelanogaster_UCSCtracks/master/bigBed/K27ac_Toll10b.genrich.narrowPeak.BigBed.bb
+
+track K27ac_Toll910
+shortLabel H3K27ac Toll910 mutant
+longLabel H3K27ac ChIPseq peaks in Toll10b mutants using genrich on data from EGAXXXXX
+visibility pack
+type bigBed
+maxWindowToDraw 200000
+bigDataUrl https://raw.githubusercontent.com/b97jre/dMelanogaster_UCSCtracks/master/bigBed/K27ac_Toll910.genrich.narrowPeak.BigBed.bb
+
+track K27ac_gd7
+shortLabel H3K27ac Toll910 mutant
+longLabel H3K27ac ChIPseq peaks in gd7 mutants using genrich on data from EGAXXXXX
+visibility pack
+type bigBed
+maxWindowToDraw 200000
+bigDataUrl https://raw.githubusercontent.com/b97jre/dMelanogaster_UCSCtracks/master/bigBed/K27ac_Toll910.genrich.narrowPeak.BigBed.bb
+
+track K27me3_Toll10b
+shortLabel K27me3 Toll10b mutant
+longLabel H3K27me3 ChIPseq peaks in Toll10b mutants using genrich on data from EGAXXXXX
+visibility pack
+type bigBed
+maxWindowToDraw 200000
+bigDataUrl https://raw.githubusercontent.com/b97jre/dMelanogaster_UCSCtracks/master/bigBed/K27me3_Toll10b.genrich.narrowPeak.BigBed.bb
+
+track K27me3_Toll910
+shortLabel K27me3 Toll10b mutant
+longLabel H3K27me3 ChIPseq peaks in Toll10b mutants using genrich on data from EGAXXXXX
+visibility pack
+type bigBed
+maxWindowToDraw 200000
+bigDataUrl https://raw.githubusercontent.com/b97jre/dMelanogaster_UCSCtracks/master/bigBed/K27me3_Toll10b.genrich.narrowPeak.BigBed.bb
+
+track K27me3_gd7
+shortLabel K27me3 gd7 mutant
+longLabel H3K27me3 ChIPseq peaks in gd7 mutants using genrich on data from EGAXXXXX
+visibility pack
+type bigBed
+maxWindowToDraw 200000
+bigDataUrl https://raw.githubusercontent.com/b97jre/dMelanogaster_UCSCtracks/master/K27me3_gd7.genrich.narrowPeak.BigBed.bb
+
+
 Naive_Nc10.genrich.narrowPeak.BigBed.bb
 Naive_Nc11.genrich.narrowPeak.BigBed.bb
 Naive_Nc9.genrich.narrowPeak.BigBed.bb
