@@ -6,108 +6,52 @@ email mannerviklab@gmail.com
 
 genome dm6
 
-track H3K27ac_gd7
-shortLabel H3K27ac_gd7 mutant
-longLabel H3K27ac ChIPseq peaks in gd7 mutants from EGAXXXXX
+track H3K27ac_rep1_gd7
+shortLabel H3K27ac_rep1_gd7 mutant
+longLabel H3K27ac ChIPseq peaks rep 1 in gd7 mutants from EGAXXXXX
 visibility pack
 type bigWig
 maxWindowToDraw 200000
 bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/Toll_K27ac_K27me3_ChIP-seq_normbigwig/gd7_K27ac_1_R1dmel.bowtie2.sorted.coverage.bw
 
-track H3K4me1_Toll10b
-shortLabel H3K4me1 Toll10b mutant
-longLabel H3K4me1 ChIPseq peaks in Toll10b mutants using genrich on data from EGAXXXXX
+track H3K27me3_rep1_gd7
+shortLabel H3K27me3_rep1_gd7 mutant
+longLabel H3K27me3 ChIPseq peaks rep 1 in gd7 mutants from EGAXXXXX
 visibility pack
-type bigBed
+type bigWig
 maxWindowToDraw 200000
-bigDataUrl https://raw.githubusercontent.com/b97jre/dMelanogaster_UCSCtracks/master/bigBed/H3K4me1_Toll10b.genrich.narrowPeak.BigBed.bb
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/Toll_K27ac_K27me3_ChIP-seq_normbigwig/gd7_K27me3_1_R1dmel.bowtie2.sorted.coverage.bw
 
-
-track H3K4me1_gd7
-shortLabel H3K4me1 gd7 mutant
-longLabel H3K4me1 ChIPseq peaks in Gd7 mutants using genrich on data from EGAXXXXX
+track H3K27ac_rep1_Toll10b
+shortLabel H3K27ac_rep1_Toll10b mutant
+longLabel H3K27ac ChIPseq peaks rep 1 in Toll10b mutants from EGAXXXXX
 visibility pack
-type bigBed
+type bigWig
 maxWindowToDraw 200000
-bigDataUrl https://raw.githubusercontent.com/b97jre/dMelanogaster_UCSCtracks/master/bigBed/H3K4me1_gd7.genrich.narrowPeak.BigBed.bb
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/Toll_K27ac_K27me3_ChIP-seq_normbigwig/Toll10b_K27ac_1_R1dmel.bowtie2.sorted.coverage.bw
 
 
-track H3_Toll910
-shortLabel H3 Toll910 mutant
-longLabel H3 ChIPseq peaks in Toll910 mutants using genrich on data from EGAXXXXX
+track H3K27me3_rep1_Toll10b
+shortLabel H3K27me3_rep1_Toll10b mutant
+longLabel H3K27me3 ChIPseq peaks rep 1 in Toll10b mutants from EGAXXXXX
 visibility pack
-type bigBed
+type bigWig
 maxWindowToDraw 200000
-bigDataUrl https://raw.githubusercontent.com/b97jre/dMelanogaster_UCSCtracks/master/bigBed/H3_Toll910.genrich.narrowPeak.BigBed.bb
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/Toll_K27ac_K27me3_ChIP-seq_normbigwig/Toll10b_K27me3_1_R1dmel.bowtie2.sorted.coverage.bw
 
-track K27ac_Toll10b
-shortLabel H3K27ac Toll10b mutant
-longLabel H3K27ac ChIPseq peaks in Toll10b mutants using genrich on data from EGAXXXXX
+track H3K27ac_rep1_Tollrm9rm10
+shortLabel H3K27ac_rep1_Tollrm9rm10 mutant
+longLabel H3K27ac ChIPseq peaks rep 1 in Tollrm9rm10 mutants from EGAXXXXX
 visibility pack
-type bigBed
+type bigWig
 maxWindowToDraw 200000
-bigDataUrl https://raw.githubusercontent.com/b97jre/dMelanogaster_UCSCtracks/master/bigBed/K27ac_Toll10b.genrich.narrowPeak.BigBed.bb
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/Toll_K27ac_K27me3_ChIP-seq_normbigwig/Toll910_K27ac_1_R1dmel.bowtie2.sorted.coverage.bw
 
-track K27ac_Toll910
-shortLabel H3K27ac Toll910 mutant
-longLabel H3K27ac ChIPseq peaks in Toll10b mutants using genrich on data from EGAXXXXX
+
+track H3K27me3_rep1_Tollrm9rm10
+shortLabel H3K27me3_rep1_Tollrm9rm10 mutant
+longLabel H3K27me3 ChIPseq peaks rep 1 in Toll10b mutants from EGAXXXXX
 visibility pack
-type bigBed
+type bigWig
 maxWindowToDraw 200000
-bigDataUrl https://raw.githubusercontent.com/b97jre/dMelanogaster_UCSCtracks/master/bigBed/K27ac_Toll910.genrich.narrowPeak.BigBed.bb
-
-track K27ac_gd7
-shortLabel H3K27ac Toll910 mutant
-longLabel H3K27ac ChIPseq peaks in gd7 mutants using genrich on data from EGAXXXXX
-visibility pack
-type bigBed
-maxWindowToDraw 200000
-bigDataUrl https://raw.githubusercontent.com/b97jre/dMelanogaster_UCSCtracks/master/bigBed/K27ac_Toll910.genrich.narrowPeak.BigBed.bb
-
-track K27me3_Toll10b
-shortLabel K27me3 Toll10b mutant
-longLabel H3K27me3 ChIPseq peaks in Toll10b mutants using genrich on data from EGAXXXXX
-visibility pack
-type bigBed
-maxWindowToDraw 200000
-bigDataUrl https://raw.githubusercontent.com/b97jre/dMelanogaster_UCSCtracks/master/bigBed/K27me3_Toll10b.genrich.narrowPeak.BigBed.bb
-
-track K27me3_Toll910
-shortLabel K27me3 Toll10b mutant
-longLabel H3K27me3 ChIPseq peaks in Toll10b mutants using genrich on data from EGAXXXXX
-visibility pack
-type bigBed
-maxWindowToDraw 200000
-bigDataUrl https://raw.githubusercontent.com/b97jre/dMelanogaster_UCSCtracks/master/bigBed/K27me3_Toll10b.genrich.narrowPeak.BigBed.bb
-
-track K27me3_gd7
-shortLabel K27me3 gd7 mutant
-longLabel H3K27me3 ChIPseq peaks in gd7 mutants using genrich on data from EGAXXXXX
-visibility pack
-type bigBed
-maxWindowToDraw 200000
-bigDataUrl https://raw.githubusercontent.com/b97jre/dMelanogaster_UCSCtracks/master/K27me3_gd7.genrich.narrowPeak.BigBed.bb
-
-
-Naive_Nc10.genrich.narrowPeak.BigBed.bb
-Naive_Nc11.genrich.narrowPeak.BigBed.bb
-Naive_Nc9.genrich.narrowPeak.BigBed.bb
-Toll10B_3h.genrich.narrowPeak.BigBed.bb
-Toll10B_4h.genrich.narrowPeak.BigBed.bb
-Toll10B_5h.genrich.narrowPeak.BigBed.bb
-Toll9_10_3h.genrich.narrowPeak.BigBed.bb
-Toll9_10_4h.genrich.narrowPeak.BigBed.bb
-Toll9_10_5h.genrich.narrowPeak.BigBed.bb
-Toll9_10_Fixed.genrich.narrowPeak.BigBed.bb
-WT_12.genrich.narrowPeak.BigBed.bb
-WT_15.genrich.narrowPeak.BigBed.bb
-WT_18.genrich.narrowPeak.BigBed.bb
-WT_3.genrich.narrowPeak.BigBed.bb
-WT_6.genrich.narrowPeak.BigBed.bb
-WT_9.genrich.narrowPeak.BigBed.bb
-bigbedFiles.txt
-gd7_3h.genrich.narrowPeak.BigBed.bb
-gd7_4h.genrich.narrowPeak.BigBed.bb
-gd7_5h.genrich.narrowPeak.BigBed.bb
-zld_Toll10b.genrich.narrowPeak.BigBed.bb
-zld_gd7.genrich.narrowPeak.BigBed.bb
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/Toll_K27ac_K27me3_ChIP-seq_normbigwig/Toll910_K27me3_1_R1dmel.bowtie2.sorted.coverage.bw
