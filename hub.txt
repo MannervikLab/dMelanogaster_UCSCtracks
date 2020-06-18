@@ -11,7 +11,6 @@ shortLabel H3K27ac_rep1_gd7 mutant
 longLabel H3K27ac ChIPseq rep 1 in gd7 mutants from EGAXXXXX
 visibility pack
 type bigWig
-color blue
 maxWindowToDraw 200000
 bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/Toll_K27ac_K27me3_ChIP-seq_normbigwig/gd7_K27ac_1_R1dmel.bowtie2.sorted.coverage.bw
 
