@@ -1,0 +1,24 @@
+hub flyEmbrygonesis PRO-seq
+shortLabel Drosophila melanogaster embryo development.
+longLabel Gathering data from PROseq data during fly embryogenesis.
+useOneFile on
+email mannerviklab@gmail.com
+
+genome dm6
+
+
+track PRO-seq_rep1_Plus_Tollrm9rm10
+shortLabel PRO-seq_rep1_Plus_Tollrm9rm10 mutant
+longLabel PRO-seq rep 1 Plus strand in Tollrm9rm10 mutants from EGAXXXXX
+visibility pack
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/Toll_PRO-seq_normbigwig/toll9_10_2-5_3h_rep1.sorted_coverage_plus.bw
+
+track PRO-seq_rep1_Minus_Tollrm9rm10
+shortLabel PRO-seq_rep1_Minus_Tollrm9rm10 mutant
+longLabel PRO-seq rep 1 Minus strand in Tollrm9rm10 mutants from EGAXXXXX
+visibility pack
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/Toll_PRO-seq_normbigwig/toll9_10_2-5_3h_rep1.sorted_coverage_minus.bw
