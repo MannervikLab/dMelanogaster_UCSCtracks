@@ -8,15 +8,16 @@ genome dm6
 
 track H3K27ac_rep1_gd7
 shortLabel H3K27ac_rep1_gd7 mutant
-longLabel H3K27ac ChIPseq peaks rep 1 in gd7 mutants from EGAXXXXX
+longLabel H3K27ac ChIPseq rep 1 in gd7 mutants from EGAXXXXX
 visibility pack
 type bigWig
+color blue
 maxWindowToDraw 200000
 bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/Toll_K27ac_K27me3_ChIP-seq_normbigwig/gd7_K27ac_1_R1dmel.bowtie2.sorted.coverage.bw
 
 track H3K27me3_rep1_gd7
 shortLabel H3K27me3_rep1_gd7 mutant
-longLabel H3K27me3 ChIPseq peaks rep 1 in gd7 mutants from EGAXXXXX
+longLabel H3K27me3 ChIPseq rep 1 in gd7 mutants from EGAXXXXX
 visibility pack
 type bigWig
 maxWindowToDraw 200000
@@ -24,7 +25,7 @@ bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/Toll_K27ac_K27me3_C
 
 track H3K27ac_rep1_Toll10b
 shortLabel H3K27ac_rep1_Toll10b mutant
-longLabel H3K27ac ChIPseq peaks rep 1 in Toll10b mutants from EGAXXXXX
+longLabel H3K27ac ChIPseq rep 1 in Toll10b mutants from EGAXXXXX
 visibility pack
 type bigWig
 maxWindowToDraw 200000
@@ -33,7 +34,7 @@ bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/Toll_K27ac_K27me3_C
 
 track H3K27me3_rep1_Toll10b
 shortLabel H3K27me3_rep1_Toll10b mutant
-longLabel H3K27me3 ChIPseq peaks rep 1 in Toll10b mutants from EGAXXXXX
+longLabel H3K27me3 ChIPseq rep 1 in Toll10b mutants from EGAXXXXX
 visibility pack
 type bigWig
 maxWindowToDraw 200000
@@ -41,7 +42,7 @@ bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/Toll_K27ac_K27me3_C
 
 track H3K27ac_rep1_Tollrm9rm10
 shortLabel H3K27ac_rep1_Tollrm9rm10 mutant
-longLabel H3K27ac ChIPseq peaks rep 1 in Tollrm9rm10 mutants from EGAXXXXX
+longLabel H3K27ac ChIPseq rep 1 in Tollrm9rm10 mutants from EGAXXXXX
 visibility pack
 type bigWig
 maxWindowToDraw 200000
@@ -50,8 +51,24 @@ bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/Toll_K27ac_K27me3_C
 
 track H3K27me3_rep1_Tollrm9rm10
 shortLabel H3K27me3_rep1_Tollrm9rm10 mutant
-longLabel H3K27me3 ChIPseq peaks rep 1 in Toll10b mutants from EGAXXXXX
+longLabel H3K27me3 ChIPseq rep 1 in Toll10b mutants from EGAXXXXX
 visibility pack
 type bigWig
 maxWindowToDraw 200000
 bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/Toll_K27ac_K27me3_ChIP-seq_normbigwig/Toll910_K27me3_1_R1dmel.bowtie2.sorted.coverage.bw
+
+track PRO-seq_rep1_Plus_Tollrm9rm10
+shortLabel PRO-seq_rep1_Plus_Tollrm9rm10 mutant
+longLabel PRO-seq rep 1 Plus strand in Tollrm9rm10 mutants from EGAXXXXX
+visibility pack
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/Toll_PRO-seq_normbigwig/toll9_10_2-5_3h_rep1.sorted_coverage_plus.bw
+
+track PRO-seq_rep1_Minus_Tollrm9rm10
+shortLabel PRO-seq_rep1_Minus_Tollrm9rm10 mutant
+longLabel PRO-seq rep 1 Minus strand in Tollrm9rm10 mutants from EGAXXXXX
+visibility pack
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/Toll_PRO-seq_normbigwig/toll9_10_2-5_3h_rep1.sorted_coverage_minus.bw
