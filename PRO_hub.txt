@@ -8,7 +8,7 @@ genome dm6
 
 track PRO_rep1_Plus_gd7
 shortLabel PRO_rep1_Plus_gd7 mutant
-longLabel PRO-seq rep 1 Plus strand in Tollrm9rm10 mutants from EGAXXXXX
+longLabel PRO rep 1 Plus strand in Tollrm9rm10 mutants from EGAXXXXX
 visibility pack
 type bigWig
 maxWindowToDraw 200000
@@ -16,23 +16,23 @@ bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/Toll_PRO-seq_normbi
 
 track PRO_rep1_Minus_gd7
 shortLabel PRO-seq_rep1_Minus_Tollrm9rm10 mutant
-longLabel PRO-seq rep 1 Minus strand in Tollrm9rm10 mutants from EGAXXXXX
+longLabel PRO rep 1 Minus strand in Tollrm9rm10 mutants from EGAXXXXX
 visibility pack
 type bigWig
 maxWindowToDraw 200000
 bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/Toll_PRO-seq_normbigwig/gd7_2-5_3h_rep1.sorted_coverage_minus.bw
 
-track PRO-seq_rep1_Plus_Tollrm9rm10
-shortLabel PRO-seq_rep1_Plus_Tollrm9rm10 mutant
-longLabel PRO-seq rep 1 Plus strand in Tollrm9rm10 mutants from EGAXXXXX
+track PRO_rep1_Plus_Tollrm9rm10
+shortLabel PRO_rep1_Plus_Tollrm9rm10 mutant
+longLabel PRO rep 1 Plus strand in Tollrm9rm10 mutants from EGAXXXXX
 visibility pack
 type bigWig
 maxWindowToDraw 200000
 bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/Toll_PRO-seq_normbigwig/toll9_10_2-5_3h_rep1.sorted_coverage_plus.bw
 
-track PRO-seq_rep1_Minus_Tollrm9rm10
-shortLabel PRO-seq_rep1_Minus_Tollrm9rm10 mutant
-longLabel PRO-seq rep 1 Minus strand in Tollrm9rm10 mutants from EGAXXXXX
+track PRO_rep1_Minus_Tollrm9rm10
+shortLabel PRO_rep1_Minus_Tollrm9rm10 mutant
+longLabel PRO rep 1 Minus strand in Tollrm9rm10 mutants from EGAXXXXX
 visibility pack
 type bigWig
 maxWindowToDraw 200000
@@ -47,8 +47,8 @@ maxWindowToDraw 200000
 bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/Toll_PRO-seq_normbigwig/toll10b_2-5_3h_rep1.sorted_coverage_plus.bw
 
 track PRO_rep1_Minus_Toll10b
-shortLabel PRO-seq_rep1_Minus_Toll10b mutant
-longLabel PRO-seq rep 1 Minus strand in Toll10b mutants from EGAXXXXX
+shortLabel PRO_rep1_Minus_Toll10b mutant
+longLabel PRO rep 1 Minus strand in Toll10b mutants from EGAXXXXX
 visibility pack
 type bigWig
 maxWindowToDraw 200000
