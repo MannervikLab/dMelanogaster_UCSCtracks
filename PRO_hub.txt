@@ -11,6 +11,7 @@ shortLabel PRO_rep1_Plus_gd7 mutant
 longLabel PRO rep 1 Plus strand in gd7 mutants from EGAXXXXX
 visibility pack
 type bigWig
+color blues
 maxWindowToDraw 200000
 bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/Toll_PRO-seq_normbigwig/gd7_2-5_3h_rep1.sorted_coverage_plus.bw
 
