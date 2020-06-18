@@ -15,7 +15,7 @@ maxWindowToDraw 200000
 bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/Toll_PRO-seq_normbigwig/gd7_2-5_3h_rep1.sorted_coverage_plus.bw
 
 track PRO_rep1_Minus_gd7
-shortLabel PRO-seq_rep1_Minus_gd7 mutant
+shortLabel PRO_rep1_Minus_gd7 mutant
 longLabel PRO rep 1 Minus strand in gd7 mutants from EGAXXXXX
 visibility pack
 type bigWig
