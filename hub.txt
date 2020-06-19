@@ -1,6 +1,6 @@
 hub flyEmbrygonesis
 shortLabel Drosophila melanogaster embyogenesis development.
-longLabel Gathering data from PROseq, ATACseq, ChIPseq data during fly embryogenesis.
+longLabel Gathering data from ChIPseq data during fly embryogenesis.
 useOneFile on
 email mannerviklab@gmail.com
 
@@ -15,6 +15,16 @@ type bigWig
 maxHeightPixels 100:16:8
 maxWindowToDraw 200000
 bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/Toll_K27ac_K27me3_ChIP-seq_normbigwig/gd7_K27ac_1_R1dmel.bowtie2.sorted.coverage.bw
+
+track CBP_rep1_gd7
+shortLabel CBP_rep1_gd7 mutant
+longLabel CBP ChIPseq rep 1 in gd7 mutants from EGAXXXXX
+visibility pack
+color 20,100,10
+type bigWig
+maxHeightPixels 100:16:8
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/Toll_K27ac_K27me3_ChIP-seq_normbigwig/gd7_R1_CBP_S7.dmel.bowtie2.sorted.coverage.bw
 
 track H3K27me3_rep1_gd7
 shortLabel H3K27me3_rep1_gd7 mutant
@@ -35,6 +45,14 @@ maxHeightPixels 100:16:8
 maxWindowToDraw 200000
 bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/Toll_K27ac_K27me3_ChIP-seq_normbigwig/Toll910_K27ac_1_R1dmel.bowtie2.sorted.coverage.bw
 
+track CBP_rep1_Toll910
+shortLabel CBP_rep1_Toll910 mutant
+longLabel CBP ChIPseq rep 1 in Toll910 mutants from EGAXXXXX
+color 0,60,120
+type bigWig
+maxHeightPixels 100:16:8
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/Toll_K27ac_K27me3_ChIP-seq_normbigwig/toll910_R1_CBP_S9.dmel.bowtie2.sorted.coverage.bw
 
 track H3K27me3_rep1_Toll910
 shortLabel H3K27me3_rep1_Toll910 mutant
@@ -56,6 +74,15 @@ maxHeightPixels 100:16:8
 maxWindowToDraw 200000
 bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/Toll_K27ac_K27me3_ChIP-seq_normbigwig/Toll10b_K27ac_1_R1dmel.bowtie2.sorted.coverage.bw
 
+track CBP_rep1_Toll10b
+shortLabel CBP_rep1_Toll10b mutant
+longLabel CBP ChIPseq rep 1 in Toll10b mutants from EGAXXXXX
+visibility pack
+color 200,80,0
+type bigWig
+maxHeightPixels 100:16:8
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/Toll_K27ac_K27me3_ChIP-seq_normbigwig/toll10B_R1_CBP_S11.dmel.bowtie2.sorted.coverage.bw
 
 track H3K27me3_rep1_Toll10b
 shortLabel H3K27me3_rep1_Toll10b mutant
