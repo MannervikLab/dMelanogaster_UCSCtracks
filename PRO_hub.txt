@@ -10,6 +10,7 @@ track PRO_rep1_Plus_gd7
 shortLabel PRO_rep1_Plus_gd7 mutant
 longLabel PRO rep 1 Plus strand in gd7 mutants from EGAXXXXX
 visibility pack
+colorByStrand 20,100,10,15,75,7
 type bigWig
 maxWindowToDraw 200000
 bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/Toll_PRO-seq_normbigwig/gd7_2-5_3h_rep1.sorted_coverage_plus.bw
@@ -18,6 +19,7 @@ track PRO_rep1_Minus_gd7
 shortLabel PRO_rep1_Minus_gd7 mutant
 longLabel PRO rep 1 Minus strand in gd7 mutants from EGAXXXXX
 visibility pack
+colorByStrand 20,100,10,15,75,7
 type bigWig
 maxWindowToDraw 200000
 bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/Toll_PRO-seq_normbigwig/gd7_2-5_3h_rep1.sorted_coverage_minus.bw
@@ -26,6 +28,7 @@ track PRO_rep1_Plus_Tollrm9rm10
 shortLabel PRO_rep1_Plus_Tollrm9rm10 mutant
 longLabel PRO rep 1 Plus strand in Tollrm9rm10 mutants from EGAXXXXX
 visibility pack
+colorByStrand 0,60,120,0,45,100
 type bigWig
 maxWindowToDraw 200000
 bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/Toll_PRO-seq_normbigwig/toll9_10_2-5_3h_rep1.sorted_coverage_plus.bw
@@ -34,6 +37,7 @@ track PRO_rep1_Minus_Tollrm9rm10
 shortLabel PRO_rep1_Minus_Tollrm9rm10 mutant
 longLabel PRO rep 1 Minus strand in Tollrm9rm10 mutants from EGAXXXXX
 visibility pack
+colorByStrand 0,60,120,0,45,100
 type bigWig
 maxWindowToDraw 200000
 bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/Toll_PRO-seq_normbigwig/toll9_10_2-5_3h_rep1.sorted_coverage_minus.bw
@@ -42,6 +46,7 @@ track PRO_rep1_Plus_Toll10b
 shortLabel PRO_rep1_Plus_Toll10b mutant
 longLabel PRO rep 1 Plus strand in Toll10b mutants from EGAXXXXX
 visibility pack
+colorByStrand 200,80,0,180,60,0
 type bigWig
 maxWindowToDraw 200000
 bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/Toll_PRO-seq_normbigwig/toll10b_2-5_3h_rep1.sorted_coverage_plus.bw
@@ -50,6 +55,7 @@ track PRO_rep1_Minus_Toll10b
 shortLabel PRO_rep1_Minus_Toll10b mutant
 longLabel PRO rep 1 Minus strand in Toll10b mutants from EGAXXXXX
 visibility pack
+colorByStrand 200,80,0,180,60,0
 type bigWig
 maxWindowToDraw 200000
 bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/Toll_PRO-seq_normbigwig/toll10b_2-5_3h_rep1.sorted_coverage_minus.bw
