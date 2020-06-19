@@ -6,12 +6,11 @@ email mannerviklab@gmail.com
 
 genome dm6
 
-group ChIP-seq
-
 track H3K27ac_rep1_gd7
 shortLabel H3K27ac_rep1_gd7 mutant
 longLabel H3K27ac ChIPseq rep 1 in gd7 mutants from EGAXXXXX
 visibility pack
+color 20,20,20
 type bigWig
 maxWindowToDraw 200000
 bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/Toll_K27ac_K27me3_ChIP-seq_normbigwig/gd7_K27ac_1_R1dmel.bowtie2.sorted.coverage.bw
@@ -20,6 +19,7 @@ track H3K27me3_rep1_gd7
 shortLabel H3K27me3_rep1_gd7 mutant
 longLabel H3K27me3 ChIPseq rep 1 in gd7 mutants from EGAXXXXX
 visibility pack
+color 25,25,25
 type bigWig
 maxWindowToDraw 200000
 bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/Toll_K27ac_K27me3_ChIP-seq_normbigwig/gd7_K27me3_1_R1dmel.bowtie2.sorted.coverage.bw
@@ -28,6 +28,7 @@ track H3K27ac_rep1_Toll10b
 shortLabel H3K27ac_rep1_Toll10b mutant
 longLabel H3K27ac ChIPseq rep 1 in Toll10b mutants from EGAXXXXX
 visibility pack
+color 200,200,200
 type bigWig
 maxWindowToDraw 200000
 bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/Toll_K27ac_K27me3_ChIP-seq_normbigwig/Toll10b_K27ac_1_R1dmel.bowtie2.sorted.coverage.bw
@@ -37,6 +38,7 @@ track H3K27me3_rep1_Toll10b
 shortLabel H3K27me3_rep1_Toll10b mutant
 longLabel H3K27me3 ChIPseq rep 1 in Toll10b mutants from EGAXXXXX
 visibility pack
+color 205,205,205
 type bigWig
 maxWindowToDraw 200000
 bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/Toll_K27ac_K27me3_ChIP-seq_normbigwig/Toll10b_K27me3_1_R1dmel.bowtie2.sorted.coverage.bw
@@ -45,6 +47,7 @@ track H3K27ac_rep1_Tollrm9rm10
 shortLabel H3K27ac_rep1_Tollrm9rm10 mutant
 longLabel H3K27ac ChIPseq rep 1 in Tollrm9rm10 mutants from EGAXXXXX
 visibility pack
+color 100,100,100
 type bigWig
 maxWindowToDraw 200000
 bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/Toll_K27ac_K27me3_ChIP-seq_normbigwig/Toll910_K27ac_1_R1dmel.bowtie2.sorted.coverage.bw
@@ -54,6 +57,7 @@ track H3K27me3_rep1_Tollrm9rm10
 shortLabel H3K27me3_rep1_Tollrm9rm10 mutant
 longLabel H3K27me3 ChIPseq rep 1 in Toll10b mutants from EGAXXXXX
 visibility pack
+color 105,105,105
 type bigWig
 maxWindowToDraw 200000
 bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/Toll_K27ac_K27me3_ChIP-seq_normbigwig/Toll910_K27me3_1_R1dmel.bowtie2.sorted.coverage.bw
