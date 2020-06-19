@@ -10,7 +10,11 @@ track H3K27ac_rep1_gd7
 shortLabel H3K27ac_rep1_gd7 mutant
 longLabel H3K27ac ChIPseq rep 1 in gd7 mutants from EGAXXXXX
 visibility pack
+<<<<<<< HEAD
 color 20,100,10 
+=======
+color 20,10,30 
+>>>>>>> 02148de3743ed44dfbab28fc864bc644027c3ddf
 type bigWig
 maxHeightPixels 100:16:8
 maxWindowToDraw 200000
@@ -20,7 +24,11 @@ track H3K27me3_rep1_gd7
 shortLabel H3K27me3_rep1_gd7 mutant
 longLabel H3K27me3 ChIPseq rep 1 in gd7 mutants from EGAXXXXX
 visibility pack
+<<<<<<< HEAD
 color 20,100,10
+=======
+color 20,10,30
+>>>>>>> 02148de3743ed44dfbab28fc864bc644027c3ddf
 type bigWig
 maxHeightPixels 100:16:8
 maxWindowToDraw 200000
