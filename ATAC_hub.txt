@@ -1,0 +1,88 @@
+hub flyEmbrygonesis
+shortLabel ATAC-Drosophila melanogaster embyogenesis development.
+longLabel Gathering data from ATACseq data during fly embryogenesis.
+useOneFile on
+email mannerviklab@gmail.com
+
+genome dm6
+
+track ATAC_rep1_3h_gd7
+shortLabel ATAC_rep1_3h_gd7 mutant
+longLabel ATAC rep 1 3h strand in gd7 mutants from EGAXXXXX
+visibility pack
+color 20,100,10
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/Toll_ATAC_normbigwig/P13169_1019_S71dmel.bowtie2.sorted.coverage.bw
+
+track ATAC_rep1_4h_gd7
+shortLabel ATAC_rep1_4h_gd7 mutant
+longLabel ATAC rep 1 4h strand in gd7 mutants from EGAXXXXX
+visibility pack
+color 20,100,10
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/Toll_ATAC_normbigwig/P13169_1022_S74dmel.bowtie2.sorted.coverage.bw
+
+track ATAC_rep1_5h_gd7
+shortLabel ATAC_rep1_4h_gd7 mutant
+longLabel ATAC rep 1 4h strand in gd7 mutants from EGAXXXXX
+visibility pack
+color 20,100,10
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/Toll_ATAC_normbigwig/P13169_1025_S77dmel.bowtie2.sorted.coverage.bw
+
+track ATAC_rep1_3h_Tollrm9rm10
+shortLabel ATAC_rep1_3h_Tollrm9rm10 mutant
+longLabel ATAC rep 1 3h strand in Tollrm9rm10 mutants from EGAXXXXX
+visibility pack
+color 0,60,120
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/Toll_ATAC_normbigwig/P13169_1010_S62dmel.bowtie2.sorted.coverage.bw
+
+track ATAC_rep1_4h_Tollrm9rm10
+shortLabel ATAC_rep1_4h_Tollrm9rm10 mutant
+longLabel ATAC rep 1 4h strand in Tollrm9rm10 mutants from EGAXXXXX
+visibility pack
+color 0,60,120
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/Toll_ATAC_normbigwig/P13169_1013_S65dmel.bowtie2.sorted.coverage.bw
+
+track ATAC_rep1_5h_Tollrm9rm10
+shortLabel ATAC_rep1_5h_Tollrm9rm10 mutant
+longLabel ATAC rep 1 5h strand in Tollrm9rm10 mutants from EGAXXXXX
+visibility pack
+color 0,60,120
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/Toll_ATAC_normbigwig/P13169_1016_S68dmel.bowtie2.sorted.coverage.bw
+
+track ATAC_rep1_3h_Toll10b
+shortLabel ATAC_rep1_3h_Toll10b mutant
+longLabel ATAC rep 1 3h strand in Toll10b mutants from EGAXXXXX
+visibility pack
+color 200,80,0
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/Toll_ATAC_normbigwig/P13169_1001_S53dmel.bowtie2.sorted.coverage.bw
+
+track ATAC_rep1_4h_Toll10b
+shortLabel ATAC_rep1_4h_Toll10b mutant
+longLabel ATAC rep 1 4h strand in Toll10b mutants from EGAXXXXX
+visibility pack
+color 200,80,0
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/Toll_ATAC_normbigwig/P13169_1004_S56dmel.bowtie2.sorted.coverage.bw
+
+track ATAC_rep1_5h_Toll10b
+shortLabel ATAC_rep1_5h_Toll10b mutant
+longLabel ATAC rep 1 5h strand in Toll10b mutants from EGAXXXXX
+visibility pack
+color 200,80,0
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/Toll_ATAC_normbigwig/P13169_1007_S59dmel.bowtie2.sorted.coverage.bw
