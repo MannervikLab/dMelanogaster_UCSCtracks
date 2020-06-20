@@ -35,7 +35,7 @@ bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/Aktar/RNAseq_St15_cntlRNAi
 
 track cntlRNAi_female_plus3
 shortLabel PcntlRNAi_female_plus3
-longLabel PRO rep 1 RNAseq_St15_cntlRNAi_female_merged_coverage_plus_Rep3 from EGAXXXXX
+longLabel RNAseq_St15_cntlRNAi_female_merged_coverage_plus_Rep3 from EGAXXXXX
 visibility pack
 color 20,100,10
 type bigWig
