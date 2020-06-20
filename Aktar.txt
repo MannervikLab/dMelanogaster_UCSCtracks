@@ -1,0 +1,79 @@
+hub flyEmbrygonesis PRO-seq
+shortLabel PRO-seq Drosophila melanogaster embryo development.
+longLabel Gathering data from PROseq data during fly embryogenesis.
+useOneFile on
+email mannerviklab@gmail.com
+
+genome dm6
+
+track cntlRNAi_female_minus2
+shortLabel cntlRNAi_female_minus2
+longLabel RNAseq_St15_cntlRNAi_female_merged_coverage_minus_Rep2 from EGAXXXXX
+visibility pack
+color 20,100,10
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/Aktar/RNAseq_St15_cntlRNAi_female_merged_coverage_minus_Rep2.bw
+
+track cntlRNAi_female_plus2
+shortLabel cntlRNAi_female_plus2
+longLabel RNAseq_St15_cntlRNAi_female_merged_coverage_plus_Rep2 from EGAXXXXX
+visibility pack
+color 20,100,10
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/Aktar/RNAseq_St15_cntlRNAi_female_merged_coverage_plus_Rep2.bw
+
+track cntlRNAi_female_minus3
+shortLabel cntlRNAi_female_minus3
+longLabel RNAseq_St15_cntlRNAi_female_merged_coverage_minus_Rep3 from EGAXXXXX
+visibility pack
+color 20,100,10
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/Aktar/RNAseq_St15_cntlRNAi_female_merged_coverage_minus_Rep3.bw
+
+track cntlRNAi_female_plus3
+shortLabel PcntlRNAi_female_plus3
+longLabel PRO rep 1 RNAseq_St15_cntlRNAi_female_merged_coverage_plus_Rep3 from EGAXXXXX
+visibility pack
+color 20,100,10
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/Aktar/RNAseq_St15_cntlRNAi_female_merged_coverage_plus_Rep3.bw
+
+track mofRNAi_female_minus1
+shortLabel mofRNAi_female_minus1
+longLabel RNAseq_St15_mofRNAi_female_merged_coverage_minus_Rep1 from EGAXXXXX
+visibility pack
+color 200,80,0
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/Aktar/RNAseq_St15_mofRNAi_female_merged_coverage_minus_Rep1.bw
+
+track mofRNAi_female_minus2
+shortLabel mofRNAi_female_minus2
+longLabel RNAseq_St15_mofRNAi_female_merged_coverage_minus_Rep2 from EGAXXXXX
+visibility pack
+color 200,80,0
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/Aktar/RNAseq_St15_mofRNAi_female_merged_coverage_minus_Rep2.bw
+
+track mofRNAi_female_plus1
+shortLabel mofRNAi_female_plus1
+longLabel RNAseq_St15_mofRNAi_female_merged_coverage_plus_Rep1 from EGAXXXXX
+visibility pack
+color 200,80,0
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/Aktar/RNAseq_St15_mofRNAi_female_merged_coverage_minus_Rep1.bw
+
+track mofRNAi_female_plus2
+shortLabel mofRNAi_female_plus2
+longLabel RNAseq_St15_mofRNAi_female_merged_coverage_plus_Rep2 from EGAXXXXX
+visibility pack
+color 200,80,0
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/Aktar/RNAseq_St15_mofRNAi_female_merged_coverage_minus_Rep2.bw
