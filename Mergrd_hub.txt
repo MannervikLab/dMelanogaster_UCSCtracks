@@ -1,0 +1,284 @@
+hub flyEmbrygonesis
+shortLabel Drosophila melanogaster embyogenesis development.
+longLabel Gathering data from ChIPseq data during fly embryogenesis.
+useOneFile on
+email mannerviklab@gmail.com
+
+genome dm6
+
+track H3K27ac_gd7
+shortLabel H3K27ac_gd7 mutant
+longLabel H3K27ac ChIPseq in gd7 mutants from EGAXXXXX
+visibility pack
+color 20,100,10
+type bigWig
+maxHeightPixels 100:16:8
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/merged_bigwig/gd7_K27ac_sorted_merged_coverage.bw
+
+track CBP_gd7
+shortLabel CBP_gd7 mutant
+longLabel CBP ChIPseq  in gd7 mutants from EGAXXXXX
+visibility pack
+color 20,100,10
+type bigWig
+maxHeightPixels 100:16:8
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/merged_bigwig/gd7_CBP_sorted_merged_coverage.bw
+
+track H3K27me3_gd7
+shortLabel H3K27me3_gd7 mutant
+longLabel H3K27me3 ChIPseq  in gd7 mutants from EGAXXXXX
+visibility pack
+color 20,100,10
+type bigWig
+maxHeightPixels 100:16:8
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/merged_bigwig/gd7_K27me3_sorted_merged_coverage.bw
+
+track H3K27ac_Toll910
+shortLabel H3K27ac_Toll910 mutant
+longLabel H3K27ac ChIPseq  in Toll910 mutants from EGAXXXXX
+color 0,60,120
+type bigWig
+maxHeightPixels 100:16:8
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/merged_bigwig/Toll910_K27ac_sorted_merged_coverage.bw
+
+track CBP_Toll910
+shortLabel CBP_Toll910 mutant
+longLabel CBP ChIPseq  in Toll910 mutants from EGAXXXXX
+color 0,60,120
+type bigWig
+maxHeightPixels 100:16:8
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/merged_bigwig/Toll910_CBP_sorted_merged_coverage.bw
+
+track H3K27me3_Toll910
+shortLabel H3K27me3_Toll910 mutant
+longLabel H3K27me3 ChIPseq  in Toll910 mutants from EGAXXXXX
+visibility pack
+color 0,60,120
+type bigWig
+maxHeightPixels 100:16:8
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/merged_bigwig/Toll910_K27me3_sorted_merged_coverage.bw
+
+track H3K27ac_Toll10b
+shortLabel H3K27ac_Toll10b mutant
+longLabel H3K27ac ChIPseq  in Toll10b mutants from EGAXXXXX
+visibility pack
+color 200,80,0
+type bigWig
+maxHeightPixels 100:16:8
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/merged_bigwig/Toll10b_K27ac_sorted_merged_coverage.bw
+
+track CBP_Toll10b
+shortLabel CBP_Toll10b mutant
+longLabel CBP ChIPseq  in Toll10b mutants from EGAXXXXX
+visibility pack
+color 200,80,0
+type bigWig
+maxHeightPixels 100:16:8
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/merged_bigwig/Toll10B_CBP_sorted_merged_coverage.bw
+
+track H3K27me3_Toll10b
+shortLabel H3K27me3_Toll10b mutant
+longLabel H3K27me3 ChIPseq  in Toll10b mutants from EGAXXXXX
+visibility pack
+color 200,80,0
+type bigWig
+maxHeightPixels 100:16:8
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/merged_bigwig/Toll10b_K27me3_sorted_merged_coverage.bw
+
+track ATAC_3h_gd7
+shortLabel ATAC_3h_gd7 mutant
+longLabel ATAC  3h strand in gd7 mutants from EGAXXXXX
+visibility pack
+color 20,100,10
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/merged_bigwig/gd7_3h_ATAC_sorted_merged_coverage.bw
+
+track ATAC_4h_gd7
+shortLabel ATAC_4h_gd7 mutant
+longLabel ATAC  4h strand in gd7 mutants from EGAXXXXX
+visibility pack
+color 20,100,10
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/merged_bigwig/gd7_4h_ATAC_sorted_merged_coverage.bw
+
+track ATAC_5h_gd7
+shortLabel ATAC_5h_gd7 mutant
+longLabel ATAC  5h strand in gd7 mutants from EGAXXXXX
+visibility pack
+color 20,100,10
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/merged_bigwig/gd7_5h_ATAC_sorted_merged_coverage.bw
+
+track ATAC_3h_Tollrm9rm10
+shortLabel ATAC_3h_Tollrm9rm10 mutant
+longLabel ATAC  3h strand in Tollrm9rm10 mutants from EGAXXXXX
+visibility pack
+color 0,60,120
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/merged_bigwig/Toll910_3h_ATAC_sorted_merged_coverage.bw
+
+track ATAC_4h_Tollrm9rm10
+shortLabel ATAC_4h_Tollrm9rm10 mutant
+longLabel ATAC  4h strand in Tollrm9rm10 mutants from EGAXXXXX
+visibility pack
+color 0,60,120
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/merged_bigwig/Toll910_4h_ATAC_sorted_merged_coverage.bw
+
+track ATAC_5h_Tollrm9rm10
+shortLabel ATAC_5h_Tollrm9rm10 mutant
+longLabel ATAC  5h strand in Tollrm9rm10 mutants from EGAXXXXX
+visibility pack
+color 0,60,120
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/merged_bigwig/Toll910_5h_ATAC_sorted_merged_coverage.bw
+
+track ATAC_3h_Toll10b
+shortLabel ATAC_3h_Toll10b mutant
+longLabel ATAC  3h strand in Toll10b mutants from EGAXXXXX
+visibility pack
+color 200,80,0
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/merged_bigwig/Toll10b_3h_ATAC_sorted_merged_coverage.bw
+
+track ATAC_4h_Toll10b
+shortLabel ATAC_4h_Toll10b mutant
+longLabel ATAC  4h strand in Toll10b mutants from EGAXXXXX
+visibility pack
+color 200,80,0
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/merged_bigwig/Toll10b_4h_ATAC_sorted_merged_coverage.bw
+
+track ATAC_5h_Toll10b
+shortLabel ATAC_5h_Toll10b mutant
+longLabel ATAC  5h strand in Toll10b mutants from EGAXXXXX
+visibility pack
+color 200,80,0
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/merged_bigwig/Toll10b_5h_ATAC_sorted_merged_coverage.bw
+
+track PRO_gd7_3h_Plus
+shortLabel PRO_gd7_3h_Plus
+longLabel PRO  Plus strand in gd7 3h mutants from EGAXXXXX
+visibility pack
+color 20,100,10
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/merged_bigwig/gd7_3h_PRO-seq_sorted_merged_plus_coverage.bw
+
+track PRO_gd7_3h_Minus
+shortLabel PRO_gd7_3h_Minus
+longLabel PRO Minus strand in gd7 3h mutants from EGAXXXXX
+visibility pack
+color 20,100,10
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/merged_bigwig/gd7_3h_PRO-seq_sorted_merged_minu_coverage.bw
+
+track PRO_gd7_5h_Plus
+shortLabel PRO_gd7_5h_Plus
+longLabel PRO  Plus strand in gd7 5h mutants from EGAXXXXX
+visibility pack
+color 20,100,10
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/merged_bigwig/gd7_5h_PRO-seq_sorted_merged_plus_coverage.bw
+
+track PRO_gd7_5h_Minus
+shortLabel PRO_gd7_5h_Minus
+longLabel PRO  Minus strand in gd7 5h mutants from EGAXXXXX
+visibility pack
+color 20,100,10
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/merged_bigwig/gd7_5h_PRO-seq_sorted_merged_minu_coverage.bw
+
+track PRO_Tollrm9rm10_3h_Plus
+shortLabel PRO_Tollrm9rm10_3h_Plus
+longLabel PRO  Plus strand in Tollrm9rm10 3h mutants from EGAXXXXX
+visibility pack
+color 0,60,120
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/merged_bigwig/Toll910_3h_PRO-seq_sorted_merged_plus_coverage.bw
+
+track PRO_Tollrm9rm10_3h_Minus
+shortLabel PRO_Tollrm9rm10_3h_Minus
+longLabel PRO  Minus strand in Tollrm9rm10 3h mutants from EGAXXXXX
+visibility pack
+color 0,60,120
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/merged_bigwig/Toll910_3h_PRO-seq_sorted_merged_minu_coverage.bw
+
+track PRO_Tollrm9rm10_5h_Plus
+shortLabel PRO_Tollrm9rm10_5h_Plus
+longLabel PRO  Plus strand in Tollrm9rm10 mutants 5h from EGAXXXXX
+visibility pack
+color 0,60,120
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/merged_bigwig/toll910_5h_PRO-seq_sorted_merged_plus_coverage.bw
+
+track PRO_Tollrm9rm10_5h_Minus
+shortLabel PRO_Tollrm9rm10_5h_Minus
+longLabel PRO  Minus strand in Tollrm9rm10 5h mutants from EGAXXXXX
+visibility pack
+color 0,60,120
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/merged_bigwig/toll910_5h_PRO-seq_sorted_merged_minu_coverage.bw
+
+track PRO_Toll10b_3h_Plus
+shortLabel PRO_Plus_Toll10b mutant
+longLabel PRO  Plus strand in Toll10b mutants from EGAXXXXX
+visibility pack
+color 200,80,0
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/merged_bigwig/Toll10b_3h_PRO-seq_sorted_merged_plus_coverage.bw
+
+track PRO_Toll10b_3h_Minus
+shortLabel PRO_Minus_Toll10b mutant
+longLabel PRO  Minus strand in Toll10b mutants from EGAXXXXX
+visibility pack
+color 200,80,0
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/merged_bigwig/Toll10b_3h_PRO-seq_sorted_merged_minu_coverage.bw
+
+track PRO_Toll10b_5h_Plus
+shortLabel PRO_Plus_Toll10b mutant
+longLabel PRO  Plus strand in Toll10b mutants from EGAXXXXX
+visibility pack
+color 200,80,0
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/merged_bigwig/Toll10b_5h_PRO-seq_sorted_merged_plus_coverage.bw
+
+track PRO_Toll10b_5h_Minus
+shortLabel PRO_Minus_Toll10b mutant
+longLabel PRO  Minus strand in Toll10b mutants from EGAXXXXX
+visibility pack
+color 200,80,0
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/merged_bigwig/Toll10b_5h_PRO-seq_sorted_merged_minu_coverage.bw
