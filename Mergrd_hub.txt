@@ -266,8 +266,8 @@ maxWindowToDraw 200000
 bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/merged_bigwig/Toll10b_3h_PRO-seq_sorted_merged_minu_coverage.bw
 
 track PRO_Toll10b_5h_Plus
-shortLabel PRO_Plus_Toll10b mutant
-longLabel PRO  Plus strand in Toll10b mutants from EGAXXXXX
+shortLabel PRO_Plus_Toll10b_5h mutant
+longLabel PRO  Plus strand in Toll10b 5h mutants from EGAXXXXX
 visibility pack
 color 200,80,0
 type bigWig
@@ -275,8 +275,8 @@ maxWindowToDraw 200000
 bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/merged_bigwig/Toll10b_5h_PRO-seq_sorted_merged_plus_coverage.bw
 
 track PRO_Toll10b_5h_Minus
-shortLabel PRO_Minus_Toll10b mutant
-longLabel PRO  Minus strand in Toll10b mutants from EGAXXXXX
+shortLabel PRO_Minus_Toll10b_5h mutant
+longLabel PRO  Minus strand in Toll10b_5h mutants from EGAXXXXX
 visibility pack
 color 200,80,0
 type bigWig
