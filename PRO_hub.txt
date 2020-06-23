@@ -67,7 +67,7 @@ visibility pack
 color 20,100,10
 type bigWig
 maxWindowToDraw 200000
-bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/gd7_4-5_5h_rep1.sorted_coverage_plus.bw
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/Toll_PRO-seq_normbigwig/gd7_4-5_5h_rep1.sorted_coverage_plus.bw
 
 track PRO_rep1_Minus_gd7_5h
 shortLabel PRO_rep1_Minus_gd7_5h mutant
@@ -94,7 +94,7 @@ visibility pack
 color 0,60,120
 type bigWig
 maxWindowToDraw 200000
-bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/toll9_10_4-5_5h_rep1.sorted_coverage_minus.bw
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/Toll_PRO-seq_normbigwig/toll9_10_4-5_5h_rep1.sorted_coverage_minus.bw
 
 track PRO_rep1_Plus_Toll10b_5h
 shortLabel PRO_rep1_Plus_Toll10b mutant_5h
@@ -103,7 +103,7 @@ visibility pack
 color 200,80,0
 type bigWig
 maxWindowToDraw 200000
-bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/toll10b_4-5_5h_rep1.sorted_coverage_plus.bw
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/Toll_PRO-seq_normbigwig/toll10b_4-5_5h_rep1.sorted_coverage_plus.bw
 
 track PRO_rep1_Minus_Toll10b_5h
 shortLabel PRO_rep1_Minus_Toll10b_5h mutant
