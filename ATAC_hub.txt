@@ -25,8 +25,8 @@ maxWindowToDraw 200000
 bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/Toll_ATAC_normbigwig/P13169_1022_S74dmel.bowtie2.sorted.coverage.bw
 
 track ATAC_rep1_5h_gd7
-shortLabel ATAC_rep1_4h_gd7 mutant
-longLabel ATAC rep 1 4h strand in gd7 mutants from EGAXXXXX
+shortLabel ATAC_rep1_5h_gd7 mutant
+longLabel ATAC rep 1 5h strand in gd7 mutants from EGAXXXXX
 visibility pack
 color 20,100,10
 type bigWig
