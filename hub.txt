@@ -8,7 +8,7 @@ genome dm6
 
 track Dl_rep1_wt
 shortLabel Dl_rep1_wt
-longLabel wt ChIPseq rep 1 in wt from EGAXXXXX
+longLabel Dl ChIPseq rep 1 in wt from EGAXXXXX
 visibility pack
 color 0,0,0
 type bigWig
