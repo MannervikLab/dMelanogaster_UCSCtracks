@@ -6,6 +6,17 @@ email mannerviklab@gmail.com
 
 genome dm6
 
+track Dl_rep1_wt
+shortLabel Dl_rep1_wt
+longLabel wt ChIPseq rep 1 in wt from EGAXXXXX
+visibility pack
+color 0,0,0
+type bigWig
+maxHeightPixels 100:16:8
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/Toll_K27ac_K27me3_ChIP-seq_normbigwig/Dl_ChIP_wt_rep1dmel.bowtie2.sorted.coverage.bw
+
+
 track H3K27ac_rep1_gd7
 shortLabel H3K27ac_rep1_gd7 mutant
 longLabel H3K27ac ChIPseq rep 1 in gd7 mutants from EGAXXXXX
