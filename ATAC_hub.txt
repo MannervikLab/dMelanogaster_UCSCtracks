@@ -6,6 +6,34 @@ email mannerviklab@gmail.com
 
 genome dm6
 
+track NC11_9min_ATAC_rep1
+shortLabel NC11_9min_ATAC_rep1
+longLabel ATAC rep 1 NC11 9min from EGAXXXXX
+visibility pack
+color 80,200,100
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/Toll_ATAC_normbigwig/SRR3727939.dm6.bowtie2.coverage.bw
+
+track NC12_12min_ATAC_rep1
+shortLabel NC12_12min_ATAC_rep1
+longLabel ATAC rep 1 NC12 12min from EGAXXXXX
+visibility pack
+color 60,200,160
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/Toll_ATAC_normbigwig/SRR3727951.dm6.bowtie2.coverage.bw
+
+
+track NC13_18min_ATAC_rep1
+shortLabel NC13_18min_ATAC_rep1
+longLabel ATAC rep 1 NC13 18min from EGAXXXXX
+visibility pack
+color 40,150,230
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/Toll_ATAC_normbigwig/SRR3727970.dm6.bowtie2.coverage.bw
+
 track ATAC_rep1_3h_gd7
 shortLabel ATAC_rep1_3h_gd7 mutant
 longLabel ATAC rep 1 3h strand in gd7 mutants from EGAXXXXX
