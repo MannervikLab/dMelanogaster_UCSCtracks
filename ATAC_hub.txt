@@ -1,10 +1,10 @@
-hub flyEmbrygonesis
+ATAC-seq hub flyEmbrygonesis
 shortLabel ATAC-Drosophila melanogaster embyogenesis development.
 longLabel Gathering data from ATACseq data during fly embryogenesis.
 useOneFile on
 email mannerviklab@gmail.com
 
-genome dm6
+Genome dm6
 
 track NC11_9min_ATAC_rep1
 shortLabel NC11_9min_ATAC_rep1
