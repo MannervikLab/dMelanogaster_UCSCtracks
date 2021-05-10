@@ -1,4 +1,4 @@
-ATAC-seq hub flyEmbrygonesis
+hub flyEmbrygonesis ATAC-seq
 shortLabel ATAC-Drosophila melanogaster embyogenesis development.
 longLabel Gathering data from ATACseq data during fly embryogenesis.
 useOneFile on
