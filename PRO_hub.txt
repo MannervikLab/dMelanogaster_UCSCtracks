@@ -1,4 +1,4 @@
-PRO-seq hub flyEmbrygonesis 
+hub flyEmbrygonesis PRO-seq 
 shortLabel PRO-seq Drosophila melanogaster embryo development.
 longLabel Gathering data from PROseq data during fly embryogenesis.
 useOneFile on
