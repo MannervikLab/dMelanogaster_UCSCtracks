@@ -1,10 +1,10 @@
-PRO-seq hub flyEmbrygonesis 
+hub flyEmbrygonesis PRO-seq 
 shortLabel PRO-seq Drosophila melanogaster embryo development.
 longLabel Gathering data from PROseq data during fly embryogenesis.
 useOneFile on
 email mannerviklab@gmail.com
 
-Genome dm6
+genome dm6
 
 track PRO_rep1_Plus_gd7_3h
 shortLabel PRO_rep1_Plus_gd7_3h mutant

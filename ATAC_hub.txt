@@ -4,7 +4,7 @@ longLabel Gathering data from ATACseq data during fly embryogenesis.
 useOneFile on
 email mannerviklab@gmail.com
 
-Genome dm6
+genome dm6
 
 track NC11_9min_ATAC_rep1
 shortLabel NC11_9min_ATAC_rep1
