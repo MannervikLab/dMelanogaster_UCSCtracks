@@ -43,7 +43,7 @@ visibility pack
 color 190,60,120
 type bigWig
 maxWindowToDraw 200000
-bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/Toll_CUT&Tag_normbigwig/13_Cdk9_gd7_2_4h_R1_S13dm6.bowtie2.sorted.coverage.bw
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/Toll_CUT&Tag_normbigwig/13_CDK9_gd7_2_4h_R1_S13dm6.bowtie2.sorted.coverage.bw
 
 
 track Cdk9_CandT_Toll910_4h
@@ -53,7 +53,7 @@ visibility pack
 color 20,80,170
 type bigWig
 maxWindowToDraw 200000
-bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/Toll_CUT&Tag_normbigwig/15_Cdk9_toll910_2_4h_R1_S15dm6.bowtie2.sorted.coverage.bw
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/Toll_CUT&Tag_normbigwig/15_CDK9_toll910_2_4h_R1_S15dm6.bowtie2.sorted.coverage.bw
 
 
 track Cdk9_CandT_Toll10b_4h
@@ -63,7 +63,7 @@ visibility pack
 color 200,18,130
 type bigWig
 maxWindowToDraw 200000
-bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/Toll_CUT&Tag_normbigwig/17_Cdk9_toll10b_2_4h_R1_S17dm6.bowtie2.sorted.coverage.bw
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/Toll_CUT&Tag_normbigwig/17_CDK9_toll10b_2_4h_R1_S17dm6.bowtie2.sorted.coverage.bw
 
 
 track Fs_1_h_L_CandT_gd7_4h
