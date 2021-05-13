@@ -319,7 +319,6 @@ type bigWig
 maxWindowToDraw 200000
 bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/qPRO-seq_naive/qPRO_naive_R1.sorted_coverage_minus.bw
 
---------
 
 track CycT ChIP gd7 4h
 shortLabel CycT_ChIP_gd7_4h mutant
@@ -376,7 +375,6 @@ type bigWig
 maxWindowToDraw 200000
 bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/Toll_CUT&Tag_normbigwig/17_CDK9_toll10b_2_4h_R1_S17dm6.bowtie2.sorted.coverage.bw
 
-------
 track Fs_1_h_L ChIP gd7 4h
 shortLabel Fs_1_h_L_ChIP_gd7_4h mutant
 longLabel Fs_1_h_L ChIP in gd7 4h mutants from EGAXXXXX
