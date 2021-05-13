@@ -1,0 +1,89 @@
+hub Toll project_CUT& tag 130521 
+shortLabel Drosophila melanogaster embyogenesis development CUT&Tag.
+longLabel Gathering data from CUT&Tag data during fly embryogenesis.
+useOneFile on
+email mannerviklab@gmail.com
+
+genome dm6
+
+track CycT_ChIP_gd7_4h
+shortLabel CycT_ChIP_gd7_4h mutant
+longLabel CycT ChIP in gd7 4h mutants from EGAXXXXX
+visibility pack
+color 190,60,120
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/Toll_CUT&Tag_normbigwig/7_CycT_gd7_2_4h_R1_S7dm6.bowtie2.sorted.coverage.bw
+
+track CycT_ChIP_Toll910_4h
+shortLabel CycT_ChIP_Toll910_4h mutant
+longLabel CycT ChIP in Toll910 4h mutants from EGAXXXXX
+visibility pack
+color 20,80,170
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/Toll_CUT&Tag_normbigwig/9_CycT_toll910_2_4h_R1_S9dm6.bowtie2.sorted.coverage.bw
+
+track CycT_ChIP_Toll10b_4h_Minus
+shortLabel CycT_ChIP_Toll10b_4h mutant
+longLabel CycT ChIP in Toll10b 4h mutants from EGAXXXXX
+visibility pack
+color 100,180,30
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/Toll_CUT&Tag_normbigwig/11_CycT_toll10b_2_4h_R1_S11dm6.bowtie2.sorted.coverage.bw
+
+track CDK9_ChIP_gd7 4h
+shortLabel CDK9_ChIP_gd7_4h mutant
+longLabel CDK9 ChIP in gd7 4h mutants from EGAXXXXX
+visibility pack
+color 190,60,120
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/Toll_CUT&Tag_normbigwig/13_CDK9_gd7_2_4h_R1_S13dm6.bowtie2.sorted.coverage.bw
+
+
+track CDK9_ChIP_Toll910_4h
+shortLabel CDK9_ChIP_Toll910_4h mutant
+longLabel CDK9 ChIP in Toll910 4h mutants from EGAXXXXX
+visibility pack
+color 20,80,170
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/Toll_CUT&Tag_normbigwig/15_CDK9_toll910_2_4h_R1_S15dm6.bowtie2.sorted.coverage.bw
+
+track CDK9_ChIP_Toll10b_4h_Minus
+shortLabel CDK9_ChIP_Toll10b_4h mutant
+longLabel CDK9 ChIP in Toll10b 4h mutants from EGAXXXXX
+visibility pack
+color 200,18,130
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/Toll_CUT&Tag_normbigwig/17_CDK9_toll10b_2_4h_R1_S17dm6.bowtie2.sorted.coverage.bw
+
+track Fs_1_h_L_ChIP_gd7_4h
+shortLabel Fs_1_h_L_ChIP_gd7_4h mutant
+longLabel Fs_1_h_L ChIP in gd7 4h mutants from EGAXXXXX
+visibility pack
+color 19,160,120
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/Toll_CUT&Tag_normbigwig/1_Fs_1_h_L_gd7_2_4h_R1_S1dm6.bowtie2.sorted.coverage.bw
+
+track Fs_1_h_L_ChIP_Toll910_4h
+shortLabel Fs_1_h_L_ChIP_Toll910_4h mutant
+longLabel Fs_1_h_L ChIP in Toll910 4h mutants from EGAXXXXX
+visibility pack
+color 200,18,170
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/Toll_CUT&Tag_normbigwig/4_Fs_1_h_L_toll910_2_4h_R2_S4dm6.bowtie2.sorted.coverage.bw
+
+track Fs_1_h_L_ChIP_Toll10b_4h_Minus
+shortLabel Fs_1_h_L_ChIP_Toll10b_4h mutant
+longLabel Fs_1_h_L ChIP in Toll10b 4h mutants from EGAXXXXX
+visibility pack
+color 120,45,130
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/Toll_CUT&Tag_normbigwig/6_Fs_1_h_L_toll10b_2_4h_R2_S6dm6.bowtie2.sorted.coverage.bw
