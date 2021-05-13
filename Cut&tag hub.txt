@@ -36,7 +36,7 @@ maxWindowToDraw 200000
 bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/Toll_CUT&Tag_normbigwig/11_CycT_toll10b_2_4h_R1_S11dm6.bowtie2.sorted.coverage.bw
 
 
-track Cdk9_CandT_gd7 4h
+track Cdk9_CandT_gd7_4h
 shortLabel Cdk9_CandT_gd7_4h mutant
 longLabel Cdk9 CandT in gd7 4h mutants from EGAXXXXX
 visibility pack
@@ -56,7 +56,7 @@ maxWindowToDraw 200000
 bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/Toll_CUT&Tag_normbigwig/15_Cdk9_toll910_2_4h_R1_S15dm6.bowtie2.sorted.coverage.bw
 
 
-track Cdk9_CandT_Toll10b_4h_Minus
+track Cdk9_CandT_Toll10b_4h
 shortLabel Cdk9_CandT_Toll10b_4h mutant
 longLabel Cdk9 CandT in Toll10b 4h mutants from EGAXXXXX
 visibility pack
@@ -86,7 +86,7 @@ maxWindowToDraw 200000
 bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/Toll_CUT&Tag_normbigwig/4_Fs_1_h_L_toll910_2_4h_R2_S4dm6.bowtie2.sorted.coverage.bw
 
 
-track Fs_1_h_L_CandT_Toll10b_4h_Minus
+track Fs_1_h_L_CandT_Toll10b_4h
 shortLabel Fs_1_h_L_CandT_Toll10b_4h mutant
 longLabel Fs_1_h_L CandT in Toll10b 4h mutants from EGAXXXXX
 visibility pack
