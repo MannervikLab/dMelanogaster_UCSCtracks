@@ -1,0 +1,60 @@
+hub flyEmbrygonesis bed files
+shortLabel Drosophila melanogaster embyogenesis development bed files.
+longLabel Gathering data from  DV enhancers and genes bigbed data during fly embryogenesis.
+useOneFile on
+email mannerviklab@gmail.com
+
+genome dm6
+
+track DV_enhancers_gd7
+shortLabel DV enhancers gd7 mutant
+longLabel DV enhancers in gd7 mutants using genrich on data from EGAXXXXX
+visibility pack
+type bigBed
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/regionsasbedfiles/DV_enhancers_gd7.bed
+
+
+track DV_genes_gd7
+shortLabel DV genes gd7 mutant
+longLabel DV genes in gd7 mutants using genrich on data from EGAXXXXX
+visibility pack
+type bigBed
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/regionsasbedfiles/DV_genes_gd7.bed
+
+
+track DV_enhancers_Toll910
+shortLabel DV enhancers Toll910 mutant
+longLabel DV enhancers in Toll910 mutants using genrich on data from EGAXXXXX
+visibility pack
+type bigBed
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/regionsasbedfiles/DV_enhancers_toll910.bed
+
+
+track DV_genes_Toll910
+shortLabel DV genes toll910 mutant
+longLabel DV genes in Toll910 mutants using genrich on data from EGAXXXXX
+visibility pack
+type bigBed
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/regionsasbedfiles/DV_genes_toll910.bed
+
+
+track DV_enhancers_Toll10b
+shortLabel DV enhancers Toll10b mutant
+longLabel DV enhancers in Toll10b mutants using genrich on data from EGAXXXXX
+visibility pack
+type bigBed
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/regionsasbedfiles/DV_enhancers_toll10b.bed
+
+
+track DV_genes_Toll10b
+shortLabel DV genes Toll10b mutant
+longLabel DV genes in Toll10b mutants using genrich on data from EGAXXXXX
+visibility pack
+type bigBed
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/regionsasbedfiles/DV_genes_toll10b.bed
