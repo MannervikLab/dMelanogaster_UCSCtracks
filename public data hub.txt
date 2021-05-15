@@ -1,0 +1,86 @@
+hub Toll project_public data
+shortLabel Drosophila melanogaster embyogenesis development public data.
+longLabel Gathering data public data during fly embryogenesis.
+useOneFile on
+email mannerviklab@gmail.com
+
+genome dm6
+
+track GSE65441_Dl_ChIP_wt
+shortLabel GSE65441_Dl_ChIP_wt
+longLabel GSE65441 Dl ChIP in wt embryos from EGAXXXXX
+visibility pack
+color 190,60,120
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/210511improvedmerged/GSE65441/Dl_ChIP_wt_rep2dmel.bowtie2.sorted.coverage.bw
+
+
+track GSE65441_zld_ChIP_wt
+shortLabel GSE65441_zld_ChIP_wt
+longLabel GSE65441 zld ChIP in wt embryos from EGAXXXXX
+visibility pack
+color 20,80,170
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/210511improvedmerged/GSE65441/zld_ChIP_wt_rep1dmel.bowtie2.sorted.coverage.bw
+
+
+track GSE68983_twi_ChIP_Toll10B
+shortLabel GSE68983_twi_ChIP_Toll10b_mutant
+longLabel GSE68983 twi ChIP in Toll10b mutants from EGAXXXXX
+visibility pack
+color 100,180,30
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/210511improvedmerged/GSE68983/GSE68983_10b_twi_mean.bigwig
+
+
+track GSE68983_mad_ChIP_gd7
+shortLabel GSE68983_mad_gd7_mutant
+longLabel GSE68983 mad in gd7 mutants from EGAXXXXX
+visibility pack
+color 190,60,120
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/210511improvedmerged/GSE68983/GSE68983_gd7_mad_mean.bigwig
+
+
+track GSE68983_zen_ChIP_gd7
+shortLabel CGSE68983_zen_ChIP_gd7 mutant
+longLabel GSE68983 zen ChIP in gd7 mutants from EGAXXXXX
+visibility pack
+color 20,80,170
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/210511improvedmerged/GSE68983/GSE68983_gd7_zen_mean.bigwig
+
+
+track GSE68983_GAF_ChIP_wt_orer
+shortLabel GSE68983_GAF_ChIP_wt
+longLabel GSE68983 GAF ChIP in wt orer embryos from EGAXXXXX
+visibility pack
+color 200,18,130
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/210511improvedmerged/GSE68983/GSE68983_orer_GAF.bigwig
+
+
+track GSE68983_pc_ChIP_wt_orer
+shortLabel GSE68983_pc_ChIP_wt
+longLabel GSE68983 pc ChIP in wt orer embryos from EGAXXXXX
+visibility pack
+color 19,160,120
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/210511improvedmerged/GSE68983/GSE68983_orer_pc.bigwig
+
+
+track GSE68983_sna_ChIP_wt_orer
+shortLabel GSE68983_sna_ChIP_wt
+longLabel GSE68983_sna_ChIP in wt orer embryos 4h mutants from EGAXXXXX
+visibility pack
+color 200,18,170
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/210511improvedmerged/GSE68983/GSE68983_orer_sna.bigwig
