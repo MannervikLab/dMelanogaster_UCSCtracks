@@ -33,7 +33,7 @@ visibility pack
 color 100,180,30
 type bigWig
 maxWindowToDraw 200000
-bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/210511improvedmerged/GSE68983/GSE68983_10b_twi_mean.bigwig
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/210511improvedmerged/GSE68983/GSE68983_10b_twi_mean.bigwig
 
 
 track GSE68983_mad_ChIP_gd7
