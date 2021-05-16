@@ -10,9 +10,9 @@ track DV_enhancers_gd7
 shortLabel DV enhancers gd7 mutant
 longLabel DV enhancers in gd7 mutants using genrich on data from EGAXXXXX
 visibility pack
-type bigBed
+type Bed
 maxWindowToDraw 200000
-bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/regionsasbedfiles/DV_enhancers_gd7.bed
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/regionsasbedfiles/DV_enhancers_gd7.bigbed
 
 
 track DV_genes_gd7
@@ -21,7 +21,7 @@ longLabel DV genes in gd7 mutants using genrich on data from EGAXXXXX
 visibility pack
 type bigBed
 maxWindowToDraw 200000
-bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/regionsasbedfiles/DV_genes_gd7.bed
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/regionsasbedfiles/DV_genes_gd7.bigbed
 
 
 track DV_enhancers_Toll910
@@ -30,7 +30,7 @@ longLabel DV enhancers in Toll910 mutants using genrich on data from EGAXXXXX
 visibility pack
 type bigBed
 maxWindowToDraw 200000
-bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/regionsasbedfiles/DV_enhancers_toll910.bed
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/regionsasbedfiles/DV_enhancers_toll910.bigbed
 
 
 track DV_genes_Toll910
@@ -39,7 +39,7 @@ longLabel DV genes in Toll910 mutants using genrich on data from EGAXXXXX
 visibility pack
 type bigBed
 maxWindowToDraw 200000
-bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/regionsasbedfiles/DV_genes_toll910.bed
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/regionsasbedfiles/DV_genes_toll910.bigbed
 
 
 track DV_enhancers_Toll10b
@@ -48,7 +48,7 @@ longLabel DV enhancers in Toll10b mutants using genrich on data from EGAXXXXX
 visibility pack
 type bigBed
 maxWindowToDraw 200000
-bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/regionsasbedfiles/DV_enhancers_toll10b.bed
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/regionsasbedfiles/DV_enhancers_toll10b.bigbed
 
 
 track DV_genes_Toll10b
@@ -57,4 +57,4 @@ longLabel DV genes in Toll10b mutants using genrich on data from EGAXXXXX
 visibility pack
 type bigBed
 maxWindowToDraw 200000
-bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/regionsasbedfiles/DV_genes_toll10b.bed
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/regionsasbedfiles/DV_genes_toll10b.bigbed
