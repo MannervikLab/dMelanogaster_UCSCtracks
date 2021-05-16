@@ -10,7 +10,7 @@ track DV_enhancers_gd7
 shortLabel DV enhancers gd7 mutant
 longLabel DV enhancers in gd7 mutants using genrich on data from EGAXXXXX
 visibility pack
-type Bed
+type bigBed
 maxWindowToDraw 200000
 bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/regionsasbedfiles/DV_enhancers_gd7.bigbed
 
