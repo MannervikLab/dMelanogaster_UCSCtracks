@@ -1,0 +1,505 @@
+hub Eisen data
+shortLabel Drosophila melanogaster embyogenesis development Eisen data.
+longLabel Gathering data Eisen data during fly embryogenesis.
+useOneFile on
+email mannerviklab@gmail.com
+
+genome dm6
+
+track H3K18ac_ChIP_NC12_wt
+shortLabel H3K18ac_ChIP_NC12_wt
+longLabel H3K18ac ChIP in wt NC12 embryos from EGAXXXXX
+visibility pack
+color 190,60,120
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/eisen/H3K18ac_nc12.bowtie2.sorted.coverage.bw
+
+
+track H3K18ac_ChIP_NC14A_wt
+shortLabel H3K18ac_ChIP_NC14A_wt
+longLabel H3K18ac ChIP in wt NC14A embryos from EGAXXXXX
+visibility pack
+color 20,80,170
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/eisen/H3K18ac_nc14A.bowtie2.sorted.coverage.bw
+
+
+track H3K18ac_ChIP_NC14C_wt
+shortLabel H3K18ac_ChIP_NC14C_wt
+longLabel H3K18ac ChIP in wt NC14C embryos from EGAXXXXX
+visibility pack
+color 100,180,30
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/eisen/H3K18ac_nc14C.bowtie2.sorted.coverage.bw
+
+
+track H3K18ac_ChIP_NC8_wt
+shortLabel H3K18ac_ChIP_NC8_wt
+longLabel H3K18ac ChIP in wt NC8 embryos from EGAXXXXX
+visibility pack
+color 190,60,120
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/eisen/H3K18ac_nc8.bowtie2.sorted.coverage.bw
+
+
+track H3K18ac_ChIP_wt
+shortLabel H3K18ac_ChIP_wt
+longLabel H3K18ac ChIP in wt embryo from EGAXXXXX
+visibility pack
+color 20,80,170
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/eisen/H3K18ac_wt.bowtie2.sorted.coverage.bw
+
+
+track H3K18ac_ChIP_zld_mut
+shortLabel H3K18ac_ChIP_zld_mut
+longLabel H3K18ac ChIP in zld mutant embryos from EGAXXXXX
+visibility pack
+color 200,18,130
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/eisen/H3K18ac_zldmutant.bowtie2.sorted.coverage.bw
+
+
+track H3K27ac_ChIP_NC12_wt
+shortLabel H3K27ac_ChIP_NC12_wt
+longLabel H3K27ac ChIP in wt NC12 embryos from EGAXXXXX
+visibility pack
+color 19,160,120
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/eisen/H3K27ac_nc12.bowtie2.sorted.coverage.bw
+
+
+track H3K27ac_ChIP_NC14A_wt
+shortLabel H3K27ac_ChIP_NC14A_wt
+longLabel H3K27ac ChIP in wt NC14A embryos from EGAXXXXX
+visibility pack
+color 200,18,170
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/eisen/H3K27ac_nc14A.bowtie2.sorted.coverage.bw
+
+
+track H3K27ac_ChIP_NC14C_wt
+shortLabel H3K27ac_ChIP_NC14C_wt
+longLabel H3K27ac ChIP in wt NC14C embryos from EGAXXXXX
+visibility pack
+color 19,160,120
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/eisen/H3K27ac_nc14C.bowtie2.sorted.coverage.bw
+
+
+track H3K27ac_ChIP_NC8B_wt
+shortLabel H3K27ac_ChIP_NC8B_wt
+longLabel H3K27ac ChIP in wt NC8B embryos from EGAXXXXX
+visibility pack
+color 200,18,170
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/eisen/H3K27ac_nc8b.bowtie2.sorted.coverage.bw
+
+
+track H3K27ac_ChIP_NC8_wt
+shortLabel H3K27ac_ChIP_NC8_wt
+longLabel H3K27ac ChIP in wt NC8 embryos from EGAXXXXX
+visibility pack
+color 200,18,170
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/eisen/H3K27ac_nc8.bowtie2.sorted.coverage.bw
+
+
+track H3K27me3_ChIP_NC12_wt
+shortLabel H3K27me3_ChIP_NC12_wt
+longLabel H3K27me3 ChIP in wt NC12 embryos from EGAXXXXX
+visibility pack
+color 19,160,120
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/eisen/H3K27me3_nc12.bowtie2.sorted.coverage.bw
+
+
+track H3K27me3_ChIP_NC14A_wt
+shortLabel H3K27me3_ChIP_NC14A_wt
+longLabel H3K27me3 ChIP in wt NC14A embryos from EGAXXXXX
+visibility pack
+color 200,18,170
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/eisen/H3K27me3_nc14A.bowtie2.sorted.coverage.bw
+
+
+track H3K27me3_ChIP_NC14C_wt
+shortLabel H3K27me3_ChIP_NC14C_wt
+longLabel H3K27me3 ChIP in wt NC14C embryos from EGAXXXXX
+visibility pack
+color 19,160,120
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/eisen/H3K27me3_nc14C.bowtie2.sorted.coverage.bw
+
+
+track H3K36me3_ChIP_NC12_wt
+shortLabel H3K36me3_ChIP_NC12_wt
+longLabel H3K36me3 ChIP in wt NC12 embryos from EGAXXXXX
+visibility pack
+color 200,18,170
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/eisen/H3K36me3_nc12.bowtie2.sorted.coverage.bw
+
+
+track H3K36me3_ChIP_NC14A_wt
+shortLabel H3K36me3_ChIP_NC14A_wt
+longLabel H3K36me3 ChIP in wt NC14A embryos from EGAXXXXX
+visibility pack
+color 200,18,170
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/eisen/H3K36me3_nc14A.bowtie2.sorted.coverage.bw
+
+track H3K36me3_ChIP_NC14C_wt
+shortLabel H3K36me3_ChIP_NC14C_wt
+longLabel H3K36me3 ChIP in wt NC14C embryos from EGAXXXXX
+visibility pack
+color 200,18,170
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/eisen/H3K36me3_nc14Cl.bowtie2.sorted.coverage.bw
+
+
+track H3K4me1_ChIP_NC12_wt
+shortLabel H3K4me1_ChIP_NC12_wt
+longLabel H3K4me1 ChIP in wt NC12 embryos from EGAXXXXX
+visibility pack
+color 200,18,170
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/eisen/H3K4me1_nc12.bowtie2.sorted.coverage.bw
+
+
+track H3K4me1_ChIP_NC14A_wt
+shortLabel H3K4me1_ChIP_NC14A_wt
+longLabel H3K4me1 ChIP in wt NC14A embryos from EGAXXXXX
+visibility pack
+color 200,18,170
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/eisen/H3K4me1_nc14A.bowtie2.sorted.coverage.bw
+
+track H3K4me1_ChIP_NC14C_wt
+shortLabel H3K4me1_ChIP_NC14C_wt
+longLabel H3K4me1 ChIP in wt NC14C embryos from EGAXXXXX
+visibility pack
+color 200,18,170
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/eisen/H3K4me1_nc14C.bowtie2.sorted.coverage.bw
+
+
+track H3K4me1_ChIP_NC8_wt
+shortLabel H3K4me1_ChIP_NC8_wt
+longLabel H3K4me1 ChIP in wt NC8 embryos from EGAXXXXX
+visibility pack
+color 200,18,170
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/eisen/H3K4me1_nc8.bowtie2.sorted.coverage.bw
+
+track H3K4me1_ChIP_wt
+shortLabel H3K4me1_ChIP_wt
+longLabel H3K4me1 ChIP in wt embryo from EGAXXXXX
+visibility pack
+color 20,80,170
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/eisen/H3K4me1_wt.bowtie2.sorted.coverage.bw
+
+
+track H3K4me1_ChIP_zld_mut
+shortLabel H3K4me1_ChIP_zld_mut
+longLabel H3Kme1 ChIP in zld mutant embryos from EGAXXXXX
+visibility pack
+color 200,18,130
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/eisen/H3K4me1_zldmutant.bowtie2.sorted.coverage.bw
+
+track H3K4me3_ChIP_NC12_wt
+shortLabel H3K4me3_ChIP_NC12_wt
+longLabel H3K4me3 ChIP in wt NC12 embryos from EGAXXXXX
+visibility pack
+color 19,160,120
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/eisen/H3K4me3_nc12.bowtie2.sorted.coverage.bw
+
+track H3K4me3_ChIP_NC14A_wt
+shortLabel H3K4me3_ChIP_NC14A_wt
+longLabel H3K4me3 ChIP in wt NC14A embryos from EGAXXXXX
+visibility pack
+color 200,18,170
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/eisen/H3K4me3_nc14A.bowtie2.sorted.coverage.bw
+
+
+track H3K4me3_ChIP_NC14C_wt
+shortLabel H3K14me3_ChIP_NC14C_wt
+longLabel H3K14me3 ChIP in wt NC14C embryos from EGAXXXXX
+visibility pack
+color 19,160,120
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/eisen/H3K4me3_nc14C.bowtie2.sorted.coverage.bw
+
+
+track H3K4me3_ChIP_NC8_wt
+shortLabel H3K4me3_ChIP_NC8_wt
+longLabel H3K4me3 ChIP in wt NC8 embryos from EGAXXXXX
+visibility pack
+color 200,18,170
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/eisen/H3K4me3_nc8.bowtie2.sorted.coverage.bw
+
+
+track H3K9ac_ChIP_NC12_wt
+shortLabel H3K9ac_ChIP_NC12_wt
+longLabel H3K9ac ChIP in wt NC12 embryos from EGAXXXXX
+visibility pack
+color 19,160,120
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/eisen/H3K9ac_nc12.bowtie2.sorted.coverage.bw
+
+track H3K9ac_ChIP_NC14A_wt
+shortLabel H3K9ac_ChIP_NC14A_wt
+longLabel H3K9ac ChIP in wt NC14A embryos from EGAXXXXX
+visibility pack
+color 200,18,170
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/eisen/H3K9ac_nc14A.bowtie2.sorted.coverage.bw
+
+
+track H3K9ac_ChIP_NC14C_wt
+shortLabel H3K9ac_ChIP_NC14C_wt
+longLabel H3K9ac ChIP in wt NC14C embryos from EGAXXXXX
+visibility pack
+color 19,160,120
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/eisen/H3K9ac_nc14C.bowtie2.sorted.coverage.bw
+
+track H3K9ac_ChIP_NC8_wt
+shortLabel H3K9ac_ChIP_NC8_wt
+longLabel H3K9ac ChIP in wt NC8 embryos from EGAXXXXX
+visibility pack
+color 200,18,170
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/eisen/H3K9ac_nc8.bowtie2.sorted.coverage.bw
+
+track H3_ChIP_NC12_wt
+shortLabel H3_ChIP_NC12_wt
+longLabel H3 ChIP in wt NC12 embryos from EGAXXXXX
+visibility pack
+color 200,18,170
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/eisen/H3_nc12.bowtie2.sorted.coverage.bw
+
+
+track H3_ChIP_NC14A_wt
+shortLabel H3_ChIP_NC14A_wt
+longLabel H3 ChIP in wt NC14A embryos from EGAXXXXX
+visibility pack
+color 200,18,170
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/eisen/H3_nc14A.bowtie2.sorted.coverage.bw
+
+track H3_ChIP_NC14C_wt
+shortLabel H3_ChIP_NC14C_wt
+longLabel H3 ChIP in wt NC14C embryos from EGAXXXXX
+visibility pack
+color 200,18,170
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/eisen/H3_nc14C.bowtie2.sorted.coverage.bw
+
+
+track H3_ChIP_NC8_wt
+shortLabel H3_ChIP_NC8_wt
+longLabel H3 ChIP in wt NC8 embryos from EGAXXXXX
+visibility pack
+color 200,18,170
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/eisen/H3_nc8.bowtie2.sorted.coverage.bw
+
+track H3_ChIP_wt
+shortLabel H3_ChIP_wt
+longLabel H3 ChIP in wt embryo from EGAXXXXX
+visibility pack
+color 20,80,170
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/eisen/H3_wt.bowtie2.sorted.coverage.bw
+
+
+track H3_ChIP_zld_mut
+shortLabel H3_ChIP_zld_mut
+longLabel H3 ChIP in zld mutant embryos from EGAXXXXX
+visibility pack
+color 200,18,130
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/eisen/H3_zldmutant.bowtie2.sorted.coverage.bw
+
+track H4K5ac_ChIP_NC12_wt
+shortLabel H4K5ac_ChIP_NC12_wt
+longLabel H4K5ac ChIP in wt NC12 embryos from EGAXXXXX
+visibility pack
+color 200,18,170
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/eisen/H4K5ac_nc12.bowtie2.sorted.coverage.bw
+
+
+track H4K5ac_ChIP_NC14A_wt
+shortLabel H4K5ac_ChIP_NC14A_wt
+longLabel H4K5ac ChIP in wt NC14A embryos from EGAXXXXX
+visibility pack
+color 200,18,170
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/eisen/H4K5ac_nc14A.bowtie2.sorted.coverage.bw
+
+
+track H4K5ac_ChIP_NC14C_wt
+shortLabel H4K5ac_ChIP_NC14C_wt
+longLabel H4K5ac ChIP in wt NC14C embryos from EGAXXXXX
+visibility pack
+color 200,18,170
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/eisen/H4K5ac_nc14C.bowtie2.sorted.coverage.bw
+
+
+track H4K5ac_ChIP_NC8_wt
+shortLabel H4K5ac_ChIP_NC8_wt
+longLabel H4K5ac ChIP in wt NC8 embryos from EGAXXXXX
+visibility pack
+color 200,18,170
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/eisen/H4K5ac_nc8.bowtie2.sorted.coverage.bw
+
+track H4K8ac_ChIP_NC12_wt
+shortLabel H4K8ac_ChIP_NC12_wt
+longLabel H4K8ac ChIP in wt NC12 embryos from EGAXXXXX
+visibility pack
+color 20,80,170
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/eisen/H4K8ac_nc12.bowtie2.sorted.coverage.bw
+
+
+track H4K8ac_ChIP_NC14A_wt
+shortLabel H4K8ac_ChIP_NC14A_wt
+longLabel H4K8ac ChIP in wt NC14A embryos from EGAXXXXX
+visibility pack
+color 200,18,170
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/eisen/H4K8ac_nc14A.bowtie2.sorted.coverage.bw
+
+
+track H4K8ac_ChIP_NC14C_wt
+shortLabel H4K8ac_ChIP_NC14C_wt
+longLabel H4K8ac ChIP in wt NC14C embryos from EGAXXXXX
+visibility pack
+color 200,18,170
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/eisen/H4K8ac_nc14C.bowtie2.sorted.coverage.bw
+
+
+track H4K8ac_ChIP_NC8_wt
+shortLabel H4K8ac_ChIP_NC8_wt
+longLabel H4K8ac ChIP in wt NC8 embryos from EGAXXXXX
+visibility pack
+color 200,18,170
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/eisen/H4K8ac_nc8.bowtie2.sorted.coverage.bw
+
+----
+
+track Input_ChIP_NC12_wt
+shortLabel Input_ChIP_NC12_wt
+longLabel Input ChIP in wt NC12 embryos from EGAXXXXX
+visibility pack
+color 20,80,170
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/eisen/input_nc12.bowtie2.sorted.coverage.bw
+
+
+track Input_ChIP_NC14A_wt
+shortLabel Input_ChIP_NC14A_wt
+longLabel Input ChIP in wt NC14A embryos from EGAXXXXX
+visibility pack
+color 200,18,170
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/eisen/input_nc14A.bowtie2.sorted.coverage.bw
+
+
+track H4K8ac_ChIP_NC14C_wt
+shortLabel H4K8ac_ChIP_NC14C_wt
+longLabel H4K8ac ChIP in wt NC14C embryos from EGAXXXXX
+visibility pack
+color 200,18,170
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/eisen/H4K8ac_nc14C.bowtie2.sorted.coverage.bw
+
+
+track Input_ChIP_NC8_wt
+shortLabel Input_ChIP_NC8_wt
+longLabel Input ChIP in wt NC8 embryos from EGAXXXXX
+visibility pack
+color 200,18,170
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/eisen/input_nc8.bowtie2.sorted.coverage.bw
+
+
+track zld_ChIP_wt
+shortLabel zld_ChIP_wt
+longLabel zld ChIP in wt embryos from EGAXXXXX
+visibility pack
+color 200,18,130
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/eisen/Zld_wt.bowtie2.sorted.coverage.bw
+
+
+track zld_ChIP_zld_mut
+shortLabel zld_ChIP_zld_mut
+longLabel zld ChIP in zld mutant embryos from EGAXXXXX
+visibility pack
+color 200,18,130
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/eisen/Zld_zldmutant.bowtie2.sorted.coverage.bw
