@@ -13,7 +13,7 @@ visibility pack
 color 190,60,120
 type bigWig
 maxWindowToDraw 200000
-bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/eisen/H3K18ac_nc12.bowtie2.sorted.coverage.bw
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/eisen_scaled/Eisen_H3K18ac_scaled_nc12.bigwig
 
 
 track Eisen_H3K18ac_ChIP_NC14A_wt
@@ -23,7 +23,7 @@ visibility pack
 color 20,80,170
 type bigWig
 maxWindowToDraw 200000
-bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/eisen/H3K18ac_nc14A.bowtie2.sorted.coverage.bw
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/eisen_scaled/Eisen_H3K18ac_scaled_nc14a.bigwig
 
 
 track Eisen_H3K18ac_ChIP_NC14C_wt
@@ -33,7 +33,7 @@ visibility pack
 color 100,180,30
 type bigWig
 maxWindowToDraw 200000
-bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/eisen/H3K18ac_nc14C.bowtie2.sorted.coverage.bw
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/eisen_scaled/Eisen_H3K18ac_scaled_nc14c.bigwig
 
 
 track Eisen_H3K18ac_ChIP_NC8_wt
@@ -43,27 +43,7 @@ visibility pack
 color 190,60,120
 type bigWig
 maxWindowToDraw 200000
-bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/eisen/H3K18ac_nc8.bowtie2.sorted.coverage.bw
-
-
-track Eisen_H3K18ac_ChIP_wt
-shortLabel Eisen_H3K18ac_ChIP_wt
-longLabel Eisen_H3K18ac ChIP in wt embryo from EGAXXXXX
-visibility pack
-color 20,80,170
-type bigWig
-maxWindowToDraw 200000
-bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/eisen/H3K18ac_wt.bowtie2.sorted.coverage.bw
-
-
-track Eisen_H3K18ac_ChIP_zld_mut
-shortLabel Eisen_H3K18ac_ChIP_zld_mut
-longLabel Eisen_H3K18ac ChIP in zld mutant embryos from EGAXXXXX
-visibility pack
-color 200,18,130
-type bigWig
-maxWindowToDraw 200000
-bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/eisen/H3K18ac_zldmutant.bowtie2.sorted.coverage.bw
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/eisen_scaled/Eisen_H3K18ac_scaled_nc8.bigwig
 
 
 track Eisen_H3K27ac_ChIP_NC12_wt
@@ -73,7 +53,7 @@ visibility pack
 color 19,160,120
 type bigWig
 maxWindowToDraw 200000
-bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/eisen/H3K27ac_nc12.bowtie2.sorted.coverage.bw
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/eisen_scaled/Eisen_H3K27ac_scaled_nc12.bigwig
 
 
 track Eisen_H3K27ac_ChIP_NC14A_wt
@@ -83,8 +63,7 @@ visibility pack
 color 200,18,170
 type bigWig
 maxWindowToDraw 200000
-bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/eisen/H3K27ac_nc14A.bowtie2.sorted.coverage.bw
-
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/eisen_scaled/Eisen_H3K27ac_scaled_nc14a.bigwig
 
 track Eisen_H3K27ac_ChIP_NC14C_wt
 shortLabel Eisen_H3K27ac_ChIP_NC14C_wt
@@ -93,17 +72,7 @@ visibility pack
 color 19,160,120
 type bigWig
 maxWindowToDraw 200000
-bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/eisen/H3K27ac_nc14C.bowtie2.sorted.coverage.bw
-
-
-track Eisen_H3K27ac_ChIP_NC8B_wt
-shortLabel Eisen_H3K27ac_ChIP_NC8B_wt
-longLabel Eisen_H3K27ac ChIP in wt NC8B embryos from EGAXXXXX
-visibility pack
-color 200,18,170
-type bigWig
-maxWindowToDraw 200000
-bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/eisen/H3K27ac_nc8b.bowtie2.sorted.coverage.bw
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/eisen_scaled/Eisen_H3K27ac_scaled_nc14c.bigwig
 
 
 track Eisen_H3K27ac_ChIP_NC8_wt
@@ -113,7 +82,7 @@ visibility pack
 color 200,18,170
 type bigWig
 maxWindowToDraw 200000
-bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/eisen/H3K27ac_nc8.bowtie2.sorted.coverage.bw
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/Eisen_H3K27ac_scaled_nc8.bigwig
 
 
 track Eisen_H3K27me3_ChIP_NC12_wt
@@ -123,7 +92,7 @@ visibility pack
 color 19,160,120
 type bigWig
 maxWindowToDraw 200000
-bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/eisen/H3K27me3_nc12.bowtie2.sorted.coverage.bw
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/eisen_scaled/Eisen_H3K27me3_scaled_nc12.bigwig
 
 
 track Eisen_H3K27me3_ChIP_NC14A_wt
@@ -133,7 +102,7 @@ visibility pack
 color 200,18,170
 type bigWig
 maxWindowToDraw 200000
-bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/eisen/H3K27me3_nc14A.bowtie2.sorted.coverage.bw
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/eisen_scaled/Eisen_H3K27me3_scaled_nc14a.bigwig
 
 
 track Eisen_H3K27me3_ChIP_NC14C_wt
@@ -143,7 +112,7 @@ visibility pack
 color 19,160,120
 type bigWig
 maxWindowToDraw 200000
-bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/eisen/H3K27me3_nc14C.bowtie2.sorted.coverage.bw
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/eisen_scaled/Eisen_H3K27me3_scaled_nc14c.bigwig
 
 
 track Eisen_H3K36me3_ChIP_NC12_wt
@@ -153,7 +122,7 @@ visibility pack
 color 200,18,170
 type bigWig
 maxWindowToDraw 200000
-bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/eisen/H3K36me3_nc12.bowtie2.sorted.coverage.bw
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/eisen_scaled/Eisen_H3K36me3_scaled_nc12.bigwig
 
 
 track Eisen_H3K36me3_ChIP_NC14A_wt
@@ -163,7 +132,7 @@ visibility pack
 color 200,18,170
 type bigWig
 maxWindowToDraw 200000
-bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/eisen/H3K36me3_nc14A.bowtie2.sorted.coverage.bw
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/eisen_scaled/Eisen_H3K36me3_scaled_nc14a.bigwig
 
 track Eisen_H3K36me3_ChIP_NC14C_wt
 shortLabel Eisen_H3K36me3_ChIP_NC14C_wt
@@ -172,7 +141,7 @@ visibility pack
 color 200,18,170
 type bigWig
 maxWindowToDraw 200000
-bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/eisen/H3K36me3_nc14Cl.bowtie2.sorted.coverage.bw
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/eisen_scaled/Eisen_H3K36me3_scaled_nc14c.bigwig
 
 
 track Eisen_H3K4me1_ChIP_NC12_wt
@@ -182,7 +151,7 @@ visibility pack
 color 200,18,170
 type bigWig
 maxWindowToDraw 200000
-bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/eisen/H3K4me1_nc12.bowtie2.sorted.coverage.bw
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/eisen_scaled/Eisen_H3K4me1_scaled_nc12.bigwig
 
 
 track Eisen_H3K4me1_ChIP_NC14A_wt
@@ -192,7 +161,7 @@ visibility pack
 color 200,18,170
 type bigWig
 maxWindowToDraw 200000
-bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/eisen/H3K4me1_nc14A.bowtie2.sorted.coverage.bw
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/eisen_scaled/Eisen_H3K4me1_scaled_nc14a.bigwig
 
 track Eisen_H3K4me1_ChIP_NC14C_wt
 shortLabel Eisen_H3K4me1_ChIP_NC14C_wt
@@ -201,7 +170,7 @@ visibility pack
 color 200,18,170
 type bigWig
 maxWindowToDraw 200000
-bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/eisen/H3K4me1_nc14C.bowtie2.sorted.coverage.bw
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/eisen_scaled/Eisen_H3K4me1_scaled_nc14c.bigwig
 
 
 track Eisen_H3K4me1_ChIP_NC8_wt
@@ -211,26 +180,8 @@ visibility pack
 color 200,18,170
 type bigWig
 maxWindowToDraw 200000
-bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/eisen/H3K4me1_nc8.bowtie2.sorted.coverage.bw
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/eisen_scaled/Eisen_H3K4me1_scaled_nc8.bigwig
 
-track Eisen_H3K4me1_ChIP_wt
-shortLabel Eisen_H3K4me1_ChIP_wt
-longLabel Eisen_H3K4me1 ChIP in wt embryo from EGAXXXXX
-visibility pack
-color 20,80,170
-type bigWig
-maxWindowToDraw 200000
-bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/eisen/H3K4me1_wt.bowtie2.sorted.coverage.bw
-
-
-track Eisen_H3K4me1_ChIP_zld_mut
-shortLabel Eisen_H3K4me1_ChIP_zld_mut
-longLabel Eisen_H3Kme1 ChIP in zld mutant embryos from EGAXXXXX
-visibility pack
-color 200,18,130
-type bigWig
-maxWindowToDraw 200000
-bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/eisen/H3K4me1_zldmutant.bowtie2.sorted.coverage.bw
 
 track Eisen_H3K4me3_ChIP_NC12_wt
 shortLabel Eisen_H3K4me3_ChIP_NC12_wt
@@ -239,7 +190,8 @@ visibility pack
 color 19,160,120
 type bigWig
 maxWindowToDraw 200000
-bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/eisen/H3K4me3_nc12.bowtie2.sorted.coverage.bw
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/eisen_scaled/Eisen_H3K4me3_scaled_nc12.bigwig
+
 
 track Eisen_H3K4me3_ChIP_NC14A_wt
 shortLabel Eisen_H3K4me3_ChIP_NC14A_wt
@@ -248,7 +200,7 @@ visibility pack
 color 200,18,170
 type bigWig
 maxWindowToDraw 200000
-bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/eisen/H3K4me3_nc14A.bowtie2.sorted.coverage.bw
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/eisen_scaled/Eisen_H3K4me3_nc14A.bowtie2.sorted.coverage.bw
 
 
 track Eisen_H3K4me3_ChIP_NC14C_wt
@@ -258,7 +210,7 @@ visibility pack
 color 19,160,120
 type bigWig
 maxWindowToDraw 200000
-bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/eisen/H3K4me3_nc14C.bowtie2.sorted.coverage.bw
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/eisen_scaled/Eisen_H3K4me3_scaled_nc14c.bigwig
 
 
 track Eisen_H3K4me3_ChIP_NC8_wt
@@ -268,7 +220,7 @@ visibility pack
 color 200,18,170
 type bigWig
 maxWindowToDraw 200000
-bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/eisen/H3K4me3_nc8.bowtie2.sorted.coverage.bw
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/eisen_scaled/Eisen_H3K4me3_scaled_nc8.bigwig
 
 
 track Eisen_H3K9ac_ChIP_NC12_wt
@@ -278,7 +230,7 @@ visibility pack
 color 19,160,120
 type bigWig
 maxWindowToDraw 200000
-bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/eisen/H3K9ac_nc12.bowtie2.sorted.coverage.bw
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/eisen_scaled/Eisen_H3K9ac_scaled_nc12.bigwig
 
 track Eisen_H3K9ac_ChIP_NC14A_wt
 shortLabel Eisen_H3K9ac_ChIP_NC14A_wt
@@ -287,7 +239,7 @@ visibility pack
 color 200,18,170
 type bigWig
 maxWindowToDraw 200000
-bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/eisen/H3K9ac_nc14A.bowtie2.sorted.coverage.bw
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/eisen_scaled/Eisen_H3K9ac_scaled_nc14a.bigwig
 
 
 track Eisen_H3K9ac_ChIP_NC14C_wt
@@ -297,7 +249,7 @@ visibility pack
 color 19,160,120
 type bigWig
 maxWindowToDraw 200000
-bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/eisen/H3K9ac_nc14C.bowtie2.sorted.coverage.bw
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/eisen_scaled/Eisen_H3K9ac_scaled_nc14c.bigwig
 
 track Eisen_H3K9ac_ChIP_NC8_wt
 shortLabel Eisen_H3K9ac_ChIP_NC8_wt
@@ -306,7 +258,7 @@ visibility pack
 color 200,18,170
 type bigWig
 maxWindowToDraw 200000
-bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/eisen/H3K9ac_nc8.bowtie2.sorted.coverage.bw
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/eisen_scaled/Eisen_H3K9ac_scaled_nc8.bigwig
 
 track Eisen_H3_ChIP_NC12_wt
 shortLabel Eisen_H3_ChIP_NC12_wt
@@ -315,7 +267,7 @@ visibility pack
 color 200,18,170
 type bigWig
 maxWindowToDraw 200000
-bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/eisen/H3_nc12.bowtie2.sorted.coverage.bw
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/eisen_scaled/Eisen_H3_scaled_nc12.bigwig
 
 
 track Eisen_H3_ChIP_NC14A_wt
@@ -325,7 +277,7 @@ visibility pack
 color 200,18,170
 type bigWig
 maxWindowToDraw 200000
-bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/eisen/H3_nc14A.bowtie2.sorted.coverage.bw
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/eisen_scaled/Eisen_H3_scaled_nc14a.bigwig
 
 track Eisen_H3_ChIP_NC14C_wt
 shortLabel Eisen_H3_ChIP_NC14C_wt
@@ -334,7 +286,7 @@ visibility pack
 color 200,18,170
 type bigWig
 maxWindowToDraw 200000
-bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/eisen/H3_nc14C.bowtie2.sorted.coverage.bw
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/eisen_scaled/Eisen_H3_scaled_nc14c.bigwig
 
 
 track Eisen_H3_ChIP_NC8_wt
@@ -344,7 +296,7 @@ visibility pack
 color 200,18,170
 type bigWig
 maxWindowToDraw 200000
-bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/eisen/H3_nc8.bowtie2.sorted.coverage.bw
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/eisen_scaled/Eisen_H3_scaled_nc8.bigwig
 
 track Eisen_H3_ChIP_wt
 shortLabel Eisen_H3_ChIP_wt
@@ -353,7 +305,7 @@ visibility pack
 color 20,80,170
 type bigWig
 maxWindowToDraw 200000
-bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/eisen/H3_wt.bowtie2.sorted.coverage.bw
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/eisen_scaled/H3_wt.bowtie2.sorted.coverage.bw
 
 
 track Eisen_H3_ChIP_zld_mut
@@ -363,7 +315,7 @@ visibility pack
 color 200,18,130
 type bigWig
 maxWindowToDraw 200000
-bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/eisen/H3_zldmutant.bowtie2.sorted.coverage.bw
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/eisen_scaled/H3_zldmutant.bowtie2.sorted.coverage.bw
 
 track Eisen_H4K5ac_ChIP_NC12_wt
 shortLabel Eisen_H4K5ac_ChIP_NC12_wt
@@ -372,7 +324,7 @@ visibility pack
 color 200,18,170
 type bigWig
 maxWindowToDraw 200000
-bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/eisen/H4K5ac_nc12.bowtie2.sorted.coverage.bw
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/eisen_scaled/Eisen_H4K5ac_scaled_nc12.bigwig
 
 
 track Eisen_H4K5ac_ChIP_NC14A_wt
@@ -382,7 +334,7 @@ visibility pack
 color 200,18,170
 type bigWig
 maxWindowToDraw 200000
-bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/eisen/H4K5ac_nc14A.bowtie2.sorted.coverage.bw
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/eisen_scaled/Eisen_H4K5ac_scaled_nc14a.bigwig
 
 track Eisen_H4K5ac_ChIP_NC14C_wt
 shortLabel Eisen_H4K5ac_ChIP_NC14C_wt
@@ -391,7 +343,7 @@ visibility pack
 color 200,18,170
 type bigWig
 maxWindowToDraw 200000
-bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/eisen/H4K5ac_nc14C.bowtie2.sorted.coverage.bw
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/eisen_scaled/Eisen_H4K5ac_scaled_nc14c.bigwig
 
 track Eisen_H4K5ac_ChIP_NC8_wt
 shortLabel Eisen_H4K5ac_ChIP_NC8_wt
@@ -400,7 +352,7 @@ visibility pack
 color 200,18,170
 type bigWig
 maxWindowToDraw 200000
-bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/eisen/H4K5ac_nc8.bowtie2.sorted.coverage.bw
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/eisen_scaled/Eisen_H4K5ac_scaled_nc8.bigwig
 
 track Eisen_H4K8ac_ChIP_NC12_wt
 shortLabel Eisen_H4K8ac_ChIP_NC12_wt
@@ -409,7 +361,7 @@ visibility pack
 color 20,80,170
 type bigWig
 maxWindowToDraw 200000
-bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/eisen/H4K8ac_nc12.bowtie2.sorted.coverage.bw
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/eisen_scaled/Eisen_H4K8ac_scaled_nc12.bigwig
 
 
 track Eisen_H4K8ac_ChIP_NC14A_wt
@@ -419,7 +371,7 @@ visibility pack
 color 200,18,170
 type bigWig
 maxWindowToDraw 200000
-bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/eisen/H4K8ac_nc14A.bowtie2.sorted.coverage.bw
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/eisen_scaled/Eisen_H4K8ac_scaled_nc14a.bigwig
 
 
 track Eisen_H4K8ac_ChIP_NC14C_wt
@@ -429,7 +381,7 @@ visibility pack
 color 200,18,170
 type bigWig
 maxWindowToDraw 200000
-bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/eisen/H4K8ac_nc14C.bowtie2.sorted.coverage.bw
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/eisen_scaled/Eisen_H4K8ac_scaled_nc14c.bigwig
 
 
 track Eisen_H4K8ac_ChIP_NC8_wt
@@ -439,7 +391,7 @@ visibility pack
 color 200,18,170
 type bigWig
 maxWindowToDraw 200000
-bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/eisen/H4K8ac_nc8.bowtie2.sorted.coverage.bw
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/eisen_scaled/Eisen_H4K8ac_scaled_nc8.bigwig
 
 
 track Eisen_Input_ChIP_NC12_wt
@@ -449,7 +401,7 @@ visibility pack
 color 20,80,170
 type bigWig
 maxWindowToDraw 200000
-bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/eisen/input_nc12.bowtie2.sorted.coverage.bw
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/eisen_scaled/input_nc12.bowtie2.sorted.coverage.bw
 
 track Eisen_Input_ChIP_NC14A_wt
 shortLabel Eisen_Input_ChIP_NC14A_wt
@@ -458,7 +410,7 @@ visibility pack
 color 200,18,170
 type bigWig
 maxWindowToDraw 200000
-bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/eisen/input_nc14A.bowtie2.sorted.coverage.bw
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/eisen_scaled/input_nc14A.bowtie2.sorted.coverage.bw
 
 track Eisen_Input_ChIP_NC8_wt
 shortLabel Eisen_Input_ChIP_NC8_wt
@@ -467,7 +419,7 @@ visibility pack
 color 200,18,170
 type bigWig
 maxWindowToDraw 200000
-bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/eisen/input_nc8.bowtie2.sorted.coverage.bw
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/eisen_scaled/input_nc8.bowtie2.sorted.coverage.bw
 
 track Eisen_zld_ChIP_wt
 shortLabel Eisen_zld_ChIP_wt
@@ -476,7 +428,7 @@ visibility pack
 color 200,18,130
 type bigWig
 maxWindowToDraw 200000
-bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/eisen/Zld_wt.bowtie2.sorted.coverage.bw
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/eisen_scaled/Zld_wt.bowtie2.sorted.coverage.bw
 
 
 track Eisen_zld_ChIP_zld_mut
@@ -486,4 +438,4 @@ visibility pack
 color 200,18,130
 type bigWig
 maxWindowToDraw 200000
-bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/eisen/Zld_zldmutant.bowtie2.sorted.coverage.bw
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/eisen_scaled/Zld_zldmutant.bowtie2.sorted.coverage.bw
