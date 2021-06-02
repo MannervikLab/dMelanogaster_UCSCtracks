@@ -82,7 +82,7 @@ visibility pack
 color 200,18,170
 type bigWig
 maxWindowToDraw 200000
-bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/Eisen_H3K27ac_scaled_nc8.bigwig
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/eisen_scaled/Eisen_H3K27ac_scaled_nc8.bigwig
 
 
 track Eisen_H3K27me3_ChIP_NC12_wt
@@ -200,7 +200,7 @@ visibility pack
 color 200,18,170
 type bigWig
 maxWindowToDraw 200000
-bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/eisen_scaled/Eisen_H3K4me3_nc14A.bowtie2.sorted.coverage.bw
+bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/eisen_scaled/Eisen_H3K4me3_scaled_nc14a.bigwig
 
 
 track Eisen_H3K4me3_ChIP_NC14C_wt
@@ -326,7 +326,6 @@ type bigWig
 maxWindowToDraw 200000
 bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/eisen_scaled/Eisen_H4K5ac_scaled_nc12.bigwig
 
-
 track Eisen_H4K5ac_ChIP_NC14A_wt
 shortLabel Eisen_H4K5ac_ChIP_NC14A_wt
 longLabel Eisen_H4K5ac ChIP in wt NC14A embryos from EGAXXXXX
@@ -335,6 +334,7 @@ color 200,18,170
 type bigWig
 maxWindowToDraw 200000
 bigDataUrl https://export.uppmax.uu.se/snic2019-30-14/bigwig/eisen_scaled/Eisen_H4K5ac_scaled_nc14a.bigwig
+
 
 track Eisen_H4K5ac_ChIP_NC14C_wt
 shortLabel Eisen_H4K5ac_ChIP_NC14C_wt
